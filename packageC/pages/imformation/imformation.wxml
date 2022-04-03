@@ -1,0 +1,18 @@
+<!--packageC/pages/imformation/imformation.wxml-->
+
+<view class="i-text">
+
+    <text style="position: relative;left: 20rpx;top: 25rpx;float: left;">姓名：</text>
+<view style="float:left; ">
+  <van-cell-group >
+  <van-field
+    value="{{ value }}"
+    placeholder="请输入用户名"
+    border="{{ false }}"
+    bind:change="onChange"
+  />
+</van-cell-group>
+</view>
+
+
+</view>

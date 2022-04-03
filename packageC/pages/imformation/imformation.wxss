@@ -1,0 +1,14 @@
+/* packageC/pages/imformation/imformation.wxss */
+.i-text{
+    position: relative;
+    top: 24rpx;
+    
+    width: 750rpx;
+    height: 100rpx;
+    
+
+}
+.i-view{
+    margin-bottom: 10rpx;
+  
+}
