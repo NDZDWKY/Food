@@ -1,0 +1,45 @@
+<!--pages/person/person.wxml-->
+
+<!-- 首行主题背景色 -->
+<view class="head-bg">
+  <image class="head-bgi" src="/images/bgi.jpg"></image>
+</view>
+
+<!-- 头像+昵称 -->
+<view class="head-name">
+  <button class="avatar-wrapper" open-type="chooseAvatar" bind:chooseavatar="onChooseAvatar">
+    <image class="avatar" src="{{avatarUrl}}"></image>
+  </button> 
+
+  <input type="nickname" class="weui-input" placeholder="请输入昵称"/>
+</view>
+
+<view class="box">
+  <button bindtap="gotoimformation" style="width: 600rpx; height: 100rpx;">
+    <view><image class="person-icon" src="/images/person-icon.png"></image></view>
+    <!-- <van-icon name="user-o" class="person-icon" color="#D9C007"/> -->
+    <text class="person-text">个人信息</text>
+    <van-icon name="arrow" class="person-arrow"/>
+  </button>
+
+  <button bindtap="gotocolect" style="width: 600rpx; height:100rpx;">
+    <view><image class="person-icon" src="/images/star-icon.png"></image></view>
+    <!-- <van-icon name="flower-o"  class="person-icon" color="#F2BAAC"/> -->
+    <text class="person-text">收藏</text>
+    <van-icon name="arrow" class="person-arrow"/>
+</button>
+
+<button bindtap="gotohistory" style="width: 600rpx; height:100rpx;">
+    <view><image class="person-icon" src="/images/search-icon.png"></image></view>
+    <!-- <van-icon name="search" class="person-icon" color="#778CAD"/> -->
+    <text class="person-text">历史搜索</text>
+    <van-icon name="arrow" class="person-arrow"/>
+</button>
+
+  <button bindtap="gotoabout" class="last-button" style="width: 600rpx; height:100rpx;">
+    <view><image class="person-icon" src="/images/about-icon.png"></image></view>
+    <!-- <van-icon name="smile-comment-o"  class="person-icon" color="#82C7A9"/> -->
+    <text class="person-text">关于小程序</text>
+    <van-icon name="arrow" class="person-arrow"/>
+  </button>
+</view>

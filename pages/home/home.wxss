@@ -1,1 +1,169 @@
 /* pages/home/home.wxss */
+
+/* 首行主题色背景*/
+.head-bg{
+    background-color: #DBE8B2;
+    height: 400rpx;
+    border-bottom-left-radius: 80rpx;
+    border-bottom-right-radius: 80rpx;
+  }
+  
+  /* .head-bg .content{
+    background-color: #fff;
+    width: 90%;
+    height: 250rpx;
+    margin: 50rpx auto;
+    border-radius: 60rpx;
+  } */
+  
+  /* 轮播图 */
+  .banner {
+    width: 100%;
+    height: 300rpx;
+  }
+  
+  .banner .swiper-container {
+    margin: 0 auto;
+    margin-top: 10rpx;
+    overflow: hidden;
+    width: 650rpx;
+    height: 280rpx;
+    box-shadow: 4rpx 4rpx 8rpx rgba(0, 0, 0, 0.3);
+    border-radius: 20rpx;
+  }
+  
+  .banner .swiper-container image {
+    width: 100%;
+  }
+  
+  /* 搜索框 */
+  .search{
+    display: flex;
+    width: 90%;
+    background-color: #fff;
+    height: 80rpx;
+    margin: 0 auto;
+    margin-top: -40rpx;
+    border-radius: 60rpx;
+  }
+  .search .img{
+    margin-top: 17rpx;
+    margin-left: 27rpx;
+  }
+  .search .img image{
+    width: 50rpx;
+    height: 50rpx;
+  }
+  .search .input{
+    margin-top: 20rpx;
+    margin-left: 27rpx;
+    color: #b6b6b6;
+    font-size: 30rpx;
+  }
+
+  /* 分割线 */
+.line{
+    color:#60858844;
+}
+
+.line-icon{
+    margin-top: 10rpx;
+    width: 50rpx;
+    height: 50rpx;
+    vertical-align: bottom;
+}
+
+/* 热门搜索 */
+.hot-title1{
+    margin-top: 25rpx;
+    box-shadow: 8rpx 12rpx 15rpx #083b370a;
+}
+
+.hot-banner{
+    position: relative;
+    height: 100rpx;
+    line-height: 100rpx;
+    font-weight: 600;
+    background-color: rgba(255, 255, 255, 0.568);
+    border-bottom: solid #efefefa8 thin;
+}
+
+.hot-icon{
+    position: absolute;
+    left: 30rpx;
+    top: 28rpx;
+    width: 50rpx;
+    height: 50rpx;
+}
+
+.hot-text1{
+    position: absolute;
+    left: 100rpx;
+    color: rgba(165, 42, 42, 0.925);
+    font-size: medium;
+}
+
+/* 热门食物推荐 */
+.hot-title2{
+    position: relative;
+    margin-top: 20rpx;
+    margin-bottom: 100rpx;
+}
+
+.hot-text2{
+    position: absolute;
+    left: 100rpx;
+    top: 35rpx;
+    font-weight: 600;
+}
+
+.hot-content{
+    padding-left: 75.2rpx;
+}
+
+.hotfood-button{
+    display: inline-block;
+    justify-content: space-around;
+    margin-top: 40rpx;
+    border: 2rpx solid rgb(244,244,244);
+    background-color: rgb(244,244,244);
+}
+
+.hotfood-icon{
+    width: 70rpx;
+    height: 70rpx;
+}
+
+.hotfood-text{
+    font-family: '宋体';
+    font-size: small;
+    color: rgba(82, 66, 66, 0.979);
+}
+
+/* 日常推荐 */
+/* .hot-title2{
+  position: relative;
+  margin-top: 20rpx;
+  margin-bottom: 100rpx;
+}
+
+.hot-text2{
+  position: absolute;
+  left: 100rpx;
+  top: 35rpx;
+  font-weight: 600;
+}
+
+.tuijian{
+  position: relative;
+  margin-bottom: 50rpx;
+}
+
+.life{
+  height: 200rpx;
+}
+
+.content{
+  position: absolute;
+  margin-top: -40rpx;
+} */

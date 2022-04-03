@@ -1,0 +1,26 @@
+<!--pages/classify/classify.wxml-->
+<van-search value="{{ value }}" placeholder="请输入搜索关键词" />
+<button bindtap="gotovegetables" style="width: 700rpx;height: 245rpx;">
+   <image src="/images/vegetables.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotomeat" style="width: 700rpx;height: 245rpx;">
+   <image src="/images/meat.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoseafoods" style="width: 700rpx;height: 245rpx;">
+   <image src="/images/seafoods.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotocerealpotato" style="width: 700rpx;height: 245rpx;">
+   <image src="/images/cereal.jpg" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotobeans" style="width: 700rpx;height: 245rpx;">
+   <image src="/images/beans.jpg" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotomilk" style="width: 700rpx;height: 245rpx;">
+   <image src="/images/milk.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoeggs" style="width: 700rpx;height: 245rpx;">
+   <image src="/images/eggs.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotofruits" style="width: 700rpx;height: 245rpx;">
+   <image src="/images/fruits.png" style="width: 100%;height: 100%;"></image>
+</button>

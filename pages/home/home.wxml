@@ -1,2 +1,76 @@
 <!--pages/home/home.wxml-->
-<text>pages/home/home.wxml</text>
+
+<view class="head-bg">
+  <!-- 标题轮播图等 -->
+  <view class="banner">
+  <swiper class="swiper-container" indicator-dots='true' autoplay='true' interval='3000' duration='1000' circular='true'>
+    <block wx:for="{{movies}}" wx:key="movies">
+      <swiper-item>
+        <image src='{{movies[index].url}}' mode='widthFix'></image>
+      </swiper-item>
+    </block>
+  </swiper>
+  </view>
+</view>
+
+<!-- 搜索框 -->
+<view class="search">
+  <view class="img" bindtap="search">
+    <image src="../../images/greensearch-icon2.png"></image>
+  </view>
+  <view class="input">
+    <input type="text" placeholder="请输入搜索关键词" />
+  </view>
+</view>
+
+
+<!-- 热门搜索 -->
+<view class="hot-title1">
+    <view class="hot-banner">
+        <image class="hot-icon" src="/images/heat-icon.png"></image>
+        <view class="hot-text1">吃什么？精准定位BMI !</view>
+    </view> 
+    <view class="hot-banner">
+        <image class="hot-icon" src="/images/milk-icon.png"></image>
+        <view class="hot-text1">小孩吃什么能长高？</view>
+    </view> 
+    <view class="hot-banner">
+        <image class="hot-icon" src="/images/zongzi.png"></image>
+        <view class="hot-text1">端午节粽子你吃了吗？</view>
+    </view> 
+</view>
+
+<!-- 热门食物推荐 -->
+ <view class="hot-title2">
+    <image class="hot-icon" src="/images/hot.png"></image>
+    <view class="hot-text2">热门食物推荐</view>
+</view>
+
+<view class="hot-content">
+    <button class="hotfood-button" style="width: 200rpx; height: 150rpx;" 
+    wx:for="{{hotput}}" wx:key="hotput">
+        <image class="hotfood-icon" src="{{hotput[index].url}}"></image>
+        <view class="hotfood-text">{{hotput[index].foodname}}</view>
+    </button>
+</view>
+
+
+
+<!-- 日常推荐 -->
+<!-- <view class="hot-title2">
+    <image class="hot-icon" src="/images/hot.png"></image>
+    <view class="hot-text2">日常推荐</view>
+</view> -->
+
+<!-- <button class="life" style="width: 700rpx;">
+  <image src="/images/diet-bgi.png"></image>
+  <view class="small-title">【新手减肥指南】</view>
+  <text>减肥到底怎么吃？吃多少?</text> 
+  <view class="look">点击查看</view> 
+</button> -->
+
+<!-- <button class="life" style="width: 750rpx;">
+  <image class="bgi" src="/images/diet-bgi.png"></image>
+</button>  -->
+
+

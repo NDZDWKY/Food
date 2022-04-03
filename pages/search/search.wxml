@@ -1,0 +1,10 @@
+<!--pages/search/search.wxml-->
+<button bindtap="gotoBMI" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="/images/BMI.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoages" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;">
+   <image src="/images/ages.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoseason" style="width: 700rpx;height: 300rpx;">
+   <image src="/images/seasons.jpg" style="width: 100%;height: 100%;"></image>
+</button>

@@ -1,0 +1,10 @@
+/* pages/classify/classify.wxss */
+.classify-button{
+    width: 700rpx;
+    height: 245rpx;
+}
+
+button::after{
+    padding: 0;
+    border: none;
+}

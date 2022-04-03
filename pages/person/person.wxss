@@ -1,0 +1,78 @@
+/* pages/person/person.wxss */
+
+/* 首行主题色背景*/
+/* .head-bg{
+  background-color: #BDD99A;
+  height: 400rpx;
+  border-bottom-left-radius: 80rpx;
+  border-bottom-right-radius: 80rpx;
+} */
+
+.head-bgi{
+  width: 100%;
+  height: 480rpx;
+  border-bottom-left-radius: 50rpx;
+  border-bottom-right-radius: 50rpx;
+}
+
+/* 头像+昵称 */
+.head-name{
+  margin-top: -480rpx;
+}
+
+button {
+    position: relative;
+    margin-left: 5rpx;
+    border-bottom: solid #efefefa8 thin;
+    background-color: white;
+  }
+
+.avatar-wrapper {
+    margin-top: 100rpx;
+    height: 200rpx;
+    border-bottom: none;
+    background-color: transparent;
+    /* background-color: #cbda89; */
+  }
+  
+  .avatar {
+    width: 200rpx;
+    height: 200rpx;
+  }
+  
+  .weui-input {
+    margin-top: 50rpx;
+    margin-bottom: 30rpx;
+    text-align: center;
+  }
+  
+  .box {
+    margin-top: 50rpx;
+    margin-left: 75rpx;
+    width: 600rpx;
+    box-shadow: 8rpx 12rpx 15rpx #083b370a;
+  }
+  
+  .person-icon{
+    position: absolute;
+    left: 30rpx;
+    top: 35rpx;
+    width: 17px;
+    height: 16.8px;
+  }
+  
+  .person-text {
+    position: absolute;
+    left: 90rpx;
+    top: 28rpx;
+    font-size: medium;
+    font-family: '宋体'
+  }
+  
+  .person-arrow {
+    position: absolute;
+    right: 30rpx;
+    top: 35rpx;
+  }
+
+  
