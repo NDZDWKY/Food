@@ -1,18 +1,364 @@
 {
   "pages":[
     "pages/home/home",
-    "pages/index/index",
-    "pages/logs/logs"
-  ],
+    "pages/classify/classify",
+    "pages/search/search",
+    "pages/person/person"],
+    
+    "lazyCodeLoading": "requiredComponents",
+
+    "subpackages":[
+      {
+        "root":"packageA",
+        "name": "pack1",
+        "pages":[
+          "pages/fruits/fruits",
+          "pages/vegetables/vegetables",
+          "pages/milk/milk",
+          "pages/cereal potato/cereal potato",
+          "pages/meat/meat",
+          "pages/seafoods/seafoods",
+          "pages/beans/beans",
+          "pages/eggs/eggs"
+        ]
+      },{
+        "root": "packageB",
+        "name": "pack2",
+        "pages": [
+          "pages/BMI/BMI",
+          "pages/ages/ages",
+          "pages/season/season"
+        ]
+      },{
+        "root": "packageC",
+        "name": "pack3",
+        "pages": [
+          "pages/imformation/imformation",
+          "pages/collect/collect",
+          "pages/history/history",
+          "pages/about/about"
+        ]
+      },{
+        "root": "packageA_A_A",
+        "name": "pack1_1_1",
+        "pages": [
+          "pages/swordbean/swordbean",
+          "pages/lycium/lycium",
+          "pages/cabmustard/cabmustard",
+          "pages/latifolia/latifolia",
+          "pages/chiehqua/chiehqua",
+          "pages/garlic/garlic",
+          "pages/wintercold/wintercold",
+          "pages/wintershoots/wintershoots",
+          "pages/beansprouts/beansprouts",
+          "pages/lotusroot/lotusroot",
+          "pages/longdou/longdou",
+          "pages/maodou/maodou",
+          "pages/okra/okra",
+          "pages/towelgourd/towelgourd",
+          "pages/daylily/daylily",
+          "pages/driedmushroom/driedmushroom",
+          "pages/lingnut/lingnut",
+          "pages/fungus/fungus",
+          "pages/luffa/luffa",
+          "pages/pea/pea",
+          "pages/edibleam/edibleam",
+          "pages/broccoli/broccoli",
+          "pages/chaxingu/chaxingu",
+          "pages/arecataro/arecataro",
+          "pages/whitegourd/whitegourd",
+          "pages/bigcabbage/bigcabbage",
+          "pages/spinach/spinach",
+          "pages/beans/beans",
+          "pages/tomato/tomato",
+          "pages/carrot/carrot",
+          "pages/kelp/kelp",
+          "pages/fennel/fennel",
+          "pages/shepurse/shepurse"
+        ]
+      },{
+        "root": "packageA_A_B",
+        "name": "pack1_1_2",
+        "pages": [
+          "pages/cauliflower/cauliflower",
+          "pages/lawyerwing/lawyerwing",
+          "pages/cucumber/cucumber",
+          "pages/herinaceus/herinaceus",
+          "pages/waterspinach/waterspinach",
+          "pages/pumpkin/pumpkin",
+          "pages/needle/needle",
+          "pages/celery/celery",
+          "pages/leek/leek",
+          "pages/balsampear/balsampear",
+          "pages/eggplant/eggplant",
+          "pages/pepper/pepper",
+          "pages/oystermushroom/oystermushroom",
+          "pages/greenpepper/greenpepper",
+          "pages/greenpapaya/greenpapaya",
+          "pages/annua/annua",
+          "pages/beetroot/beetroot",
+          "pages/lettuce/lettuce",
+          "pages/toona/toona",
+          "pages/squash/squash",
+          "pages/xiangu/xiangu",
+          "pages/shallot/shallot",
+          "pages/coriander/coriander",
+          "pages/xinradish/xinradish",
+          "pages/sauerkraut/sauerkraut",
+          "pages/tremella/tremella",
+          "pages/xinbaogu/xinbaogu",
+          "pages/dictyophora/dictyophora",
+          "pages/norl/norl",
+          "pages/cordata/cordata",
+          "pages/morel/morel",
+          "pages/elmseeds/elmseeds",
+          "pages/taro/taro"
+        ]
+      },{
+        "root": "packageA_B",
+        "name": "pack1_2",
+        "pages": [
+          "pages/chickliver/chickliver",
+          "pages/drumstick/drumstick",
+          "pages/chickbreast/chickbreast",
+          "pages/rabbitmeat/rabbitmeat",
+          "pages/mutton/mutton",
+          "pages/pigbileliver/pigbileliver",
+          "pages/pork/pork",
+          "pages/turkey/turkey",
+          "pages/horsemeat/horsemeat",
+          "pages/beef/beef",
+          "pages/duckfin/duckfin",
+          "pages/goose/goose",
+          "pages/chickheart/chickheart",
+          "pages/donkey/donkey",
+          "pages/tripe/tripe",
+          "pages/bonechick/bonechick",
+          "pages/sheepliver/sheepliver",
+          "pages/pigkidney/pigkidney",
+          "pages/pigliver/pigliver",
+          "pages/pigheart/pigheart"
+        ]
+      },{
+        "root": "packageA_C",
+        "name": "pack1_3",
+        "pages": [
+          "pages/porgy/porgy",
+          "pages/oyster/oyster",
+          "pages/trout/trout",
+          "pages/mussel/mussel",
+          "pages/bream/bream",
+          "pages/mackerel/mackerel",
+          "pages/basa/basa",
+          "pages/turbot/turbot",
+          "pages/daiyu/daiyu",
+          "pages/mandarin/mandarin",
+          "pages/springfish/springfish",
+          "pages/abalone/abalone",
+          "pages/clam/clam",
+          "pages/snakehead/snakehead",
+          "pages/ricefieldeel/ricefieldeel",
+          "pages/lobster/lobster",
+          "pages/carp/carp",
+          "pages/jellyskin/jellyskin",
+          "pages/slivercarp/slivercarp",
+          "pages/jishrimp/jishrimp",
+          "pages/goldfish/goldfish",
+          "pages/perch/perch",
+          "pages/tilapia/tilapia",
+          "pages/loach/loach",
+          "pages/eel/eel",
+          "pages/snaillion/snaillion",
+          "pages/skinshrimp/skinshrimp",
+          "pages/milkfish/milkfish",
+          "pages/greenshrimp/greenshrimp",
+          "pages/salmon/salmon",
+          "pages/catfish/catfish",
+          "pages/sardine/sardine",
+          "pages/chub/chub",
+          "pages/snail/snail",
+          "pages/shrimp/shrimp",
+          "pages/scallop/scallop",
+          "pages/frog/frog",
+          "pages/yinyu/yinyu",
+          "pages/cod/cod",
+          "pages/outopus/outopus"
+        ]
+      },{
+        "root": "packageA_D",
+        "name": "pack1_4",
+        "pages": [
+          "pages/sweetpotato/sweetpotato",
+          "pages/barley/barely",
+          "pages/noodles/noodles",
+          "pages/potatonoodles/potatonoodles",
+          "pages/lotusrs/lotusrs",
+          "pages/corn/corn",
+          "pages/blackrice/blackrice",
+          "pages/beannoodles/beannoodles",
+          "pages/lotus/lotus",
+          "pages/rice/rice",
+          "pages/yam/yam",
+          "pages/yellowrice/yellowrice",
+          "pages/walnut/walnut",
+          "pages/sweetpotatopowder/sweetpotatopowder",
+          "pages/rye/rye",
+          "pages/sorghum/sorghum",
+          "pages/oatmeal/oatmeal",
+          "pages/guanoodles/guanoodles",
+          "pages/peanut/peanut",
+          "pages/quinoa/quinoa",
+          "pages/potato/potato",
+          "pages/cassava/cassava",
+          "pages/purplepotato/purplepotato",
+          "pages/sesameseed/sesameseed",
+          "pages/glutinousrice/glutinousrice",
+          "pages/sesame/sesame",
+          "pages/oat/oat",
+          "pages/jobstears/jobstears",
+          "pages/spaghetti/spaghetti"
+        ]
+      },{
+        "root": "packageA_E",
+        "name": "pack1_5",
+        "pages": [
+          "pages/tofu/tofu",
+          "pages/beancurd/beancurd",
+          "pages/sheets/sheets",
+          "pages/blackbean/blackbean",
+          "pages/intestine/intestine",
+          "pages/petits/petits",
+          "pages/tofuflower/tofuflower",
+          "pages/soymilk/soymilk",
+          "pages/soybean/soybean",
+          "pages/driedbeancurd/driedbeancurd",
+          "pages/skin/skin",
+          "pages/silktofu/silktofu",
+          "pages/redbean/redbean",
+          "pages/greenbean/greenbean",
+          "pages/chickpea/chickpea"
+        ]
+      },{
+        "root": "packageA_F",
+        "name": "pack1_6",
+        "pages": [
+          "pages/condensed/condensed",
+          "pages/cheese/cheese",
+          "pages/yogurt/yogurt",
+          "pages/milk/milk"
+        ]
+      },{
+        "root": "packageA_G",
+        "name": "pack1_7",
+        "pages": [
+          "pages/duckegg/duckegg",
+          "pages/quailegg/quailegg",
+          "pages/oval/oval",
+          "pages/egg/egg"
+        ]
+      },{
+        "root": "packageA_H",
+        "name": "pack1_8",
+        "pages": [
+          "pages/pomelo/pomelo",
+          "pages/strawberry/strawberry",
+          "pages/pineapple/pineapple",
+          "pages/guava/guava",
+          "pages/blackcurrant/blackcurrant",
+          "pages/jackfruit/jackfruit",
+          "pages/longan/longan",
+          "pages/wax/wax",
+          "pages/rambutan/rambutan",
+          "pages/jujube/jujube",
+          "pages/plum/plum",
+          "pages/pear/pear",
+          "pages/orange/orange",
+          "pages/lotusseed/lotusseed",
+          "pages/hmgrape/hmgrape",
+          "pages/mango/mango",
+          "pages/aloe/aloe",
+          "pages/pitaya/pitaya",
+          "pages/litchi/litchi",
+          "pages/ginseng/ginseng",
+          "pages/papaya/papaya",
+          "pages/loquat/loquat",
+          "pages/apple/apple",
+          "pages/kiwi/kiwi",
+          "pages/grape/grape",
+          "pages/mulberry/mulberry",
+          "pages/hippophae/hippophae",
+          "pages/hawthorn/hawthorn",
+          "pages/snakefruit/snakefruit",
+          "pages/fig/fig",
+          "pages/granada/granada",
+          "pages/ximei/ximei",
+          "pages/seedless/seedless",
+          "pages/persimmon/persimmon",
+          "pages/muskmelon/muskmelon",
+          "pages/yellowmeat/yellowmeat",
+          "pages/watermelon/watermelon",
+          "pages/grapefruit/grapefruit",
+          "pages/banana/banana",
+          "pages/carambola/carambola",
+          "pages/apricot/apricot",
+          "pages/bayberry/bayberry",
+          "pages/coconut/coconut",
+          "pages/cherry/cherry"
+        ]
+      }
+    ],
+
+
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#BDD99A",
     "navigationBarTitleText": "Weixin",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle":"white"
   },
+
   "style": "v2",
   "sitemapLocation": "sitemap.json",
   "usingComponents": {
-    
+    "van-search": "@vant/weapp/search/index",
+    "van-icon": "@vant/weapp/icon/index",
+    "van-field": "@vant/weapp/field/index"
+  },
+
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#BDD99A",
+   "list": [
+     {
+       "pagePath": "pages/home/home",
+       "text": "首页",
+       "iconPath": "/images/homebegin.png",
+       "selectedIconPath": "/images/homeend.png"
+     },
+
+     {
+       "pagePath": "pages/classify/classify",
+       "text":"分类",
+       "iconPath": "/images/classifybegin.png",
+       "selectedIconPath": "/images/classifyend.png"
+     },
+
+     {
+      "pagePath": "pages/search/search",
+      "text":"搜索",
+      "iconPath": "/images/searchbegin.png",
+      "selectedIconPath": "/images/searchend.png"
+     },
+
+     {
+      "pagePath": "pages/person/person",
+      "text":"个人",
+      "iconPath": "/images/personbegin.png",
+      "selectedIconPath": "/images/personend.png"
+     }
+
+   ]
+
+   
   }
+
 }
