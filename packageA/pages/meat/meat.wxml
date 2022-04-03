@@ -1,0 +1,103 @@
+<!--packageA/pages/meat/meat.wxml-->
+
+<button bindtap="gotochickliver" style="width: 700rpx">
+   <image src="{{chickliversrc}}"></image>
+   <text>俗名：鸡肝</text>
+</button>
+
+<button bindtap="gotodrumstick" style="width: 700rpx">
+   <image src="{{drumsticksrc}}"></image>
+   <text>俗名：鸡腿</text>
+</button>
+
+<button bindtap="gotochickbreast" style="width: 700rpx">
+   <image src="{{chickbreastsrc}}"></image>
+   <text>俗名：鸡胸肉</text>
+</button>
+
+<button bindtap="gotorabbitmeat" style="width: 700rpx">
+   <image src="{{rabbitmeatsrc}}"></image>
+   <text>俗名：兔肉</text>
+</button>
+
+<button bindtap="gotomutton" style="width: 700rpx">
+   <image src="{{muttonsrc}}"></image>
+  　<text>俗名：羊肉</text>
+</button>
+
+<button bindtap="gotopigbileliver" style="width: 700rpx">
+   <image src="{{pigbileliversrc}}"></image>
+   <text>俗名：猪胆肝</text>
+</button>
+
+<button bindtap="gotopork" style="width: 700rpx">
+   <image src="{{porksrc}}"></image>
+   <text>俗名：猪肉</text>
+</button>
+
+<button bindtap="gototurkey" style="width: 700rpx">
+   <image src="{{turkeysrc}}"></image>
+   <text>俗名：火鸡腿</text>
+</button>
+
+<button bindtap="gotohorsemeat" style="width: 700rpx">
+   <image src="{{horsemeatsrc}}"></image>
+   <text>俗名：马肉</text>
+</button>
+
+<button bindtap="gotobeef" style="width: 700rpx">
+   <image src="{{beefsrc}}"></image>
+   <text>俗名：牛肉</text>
+</button>
+
+<button bindtap="gotoduckfin" style="width: 700rpx">
+   <image src="{{duckfinsrc}}"></image>
+   <text>俗名：鸭掌</text>
+</button>
+
+<button bindtap="gotogoose" style="width: 700rpx">
+   <image src="{{goosesrc}}"></image>
+   <text>俗名：鹅肉</text>
+</button>
+
+<button bindtap="gotochickheart" style="width: 700rpx">
+   <image src="{{chickheartsrc}}"></image>
+   <text>俗名：鸡心</text>
+</button>
+
+<button bindtap="gotodonkey" style="width: 700rpx">
+   <image src="{{donkeysrc}}"></image>
+   <text>俗名：驴肉</text>
+</button>
+
+<button bindtap="gototripe" style="width: 700rpx">
+   <image src="{{tripesrc}}"></image>
+   <text>俗名：牛肚</text>
+</button>
+
+<button bindtap="gotobonechick" style="width: 700rpx">
+   <image src="{{bonechicksrc}}"></image>
+   <text>俗名：乌骨鸡</text>
+</button>
+
+<button bindtap="gotosheepliver" style="width: 700rpx">
+   <image src="{{sheepliversrc}}"></image>
+   <text>俗名：羊肝</text>
+</button>
+
+<button bindtap="gotopigkidney" style="width: 700rpx">
+   <image src="{{pigkidneysrc}}"></image>
+   <text>俗名：猪肾</text>
+</button>
+
+<button bindtap="gotopigliver" style="width: 700rpx">
+   <image src="{{pigliversrc}}"></image>
+   <text>俗名：猪肝</text>
+</button>
+
+<button bindtap="gotopigheart" style="width: 700rpx">
+   <image src="{{pigheartsrc}}"></image>
+   <text>俗名：猪心</text>
+</button>
+
+

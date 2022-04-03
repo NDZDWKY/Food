@@ -1,0 +1,146 @@
+<!--packageA/pages/cereal potato/cereal potato.wxml-->
+
+<view>
+  <button bindtap="gotobarley" style="width: 700rpx">
+   <image src="{{barleysrc}}"></image>
+   <text class="foodname">俗名：大麦</text>
+</button>
+
+<button bindtap="gotosweetpotato" style="width: 700rpx">
+   <image src="{{sweetpotatosrc}}"></image>
+   <text class="foodname">俗名：红薯</text>
+</button>
+
+<button bindtap="gotonoodles" style="width: 700rpx">
+   <image src="{{noodlessrc}}"></image>
+   <text class="foodname">俗名：面条</text>
+</button>
+
+<button bindtap="gotolotus" style="width: 700rpx">
+   <image src="{{lotussrc}}"></image>
+   <text class="foodname">俗名：藕粉</text>
+</button>
+
+<button bindtap="gotopotatonoodles" style="width: 700rpx">
+   <image src="{{potatonoodlessrc}}"></image>
+   <text class="foodname">俗名：土豆粉条</text>
+</button>
+
+<button bindtap="gotocorn" style="width: 700rpx">
+   <image src="{{cornsrc}}"></image>
+   <text class="foodname">俗名：玉米</text>
+</button>
+
+<button bindtap="gotoblackrice" style="width: 700rpx">
+   <image src="{{blackricesrc}}"></image>
+   <text class="foodname">俗名：黑米</text>
+</button>
+
+<button bindtap="gotobeannoodles" style="width: 700rpx">
+   <image src="{{beannoodlessrc}}"></image>
+   <text class="foodname">俗名：绿豆面</text>
+</button>
+
+<button bindtap="gotorice" style="width: 700rpx">
+   <image src="{{ricesrc}}"></image>
+   <text class="foodname">俗名：米麸</text>
+</button>
+
+<button bindtap="gotoyam" style="width: 700rpx">
+   <image src="{{yamsrc}}"></image>
+   <text class="foodname">俗名：山药</text>
+</button>
+
+<button bindtap="gotosweetpotatopowder" style="width: 700rpx">
+   <image src="{{sweetpotatopowdersrc}}"></image>
+   <text class="foodname">俗名：红豆宽粉</text>
+</button>
+
+<button bindtap="gotorye" style="width: 700rpx">
+   <image src="{{ryesrc}}"></image>
+   <text class="foodname">俗名：黑麦</text>
+</button>
+
+<button bindtap="gotosorghum" style="width: 700rpx">
+   <image src="{{sorghumsrc}}"></image>
+   <text class="foodname">俗名：高粱米</text>
+</button>
+
+<button bindtap="gotooatmeal" style="width: 700rpx">
+   <image src="{{oatmealsrc}}"></image>
+   <text class="foodname">俗名：高纤苦荞麦片</text>
+</button>
+
+<button bindtap="gotoguanoodles" style="width: 700rpx">
+   <image src="{{guanoodlessrc}}"></image>
+   <text class="foodname">俗名：挂面</text>
+</button>
+
+<button bindtap="gotopeanut" style="width: 700rpx">
+   <image src="{{peanutsrc}}"></image>
+   <text class="foodname">俗名：花生</text>
+</button>
+
+<button bindtap="gotoquinoa" style="width: 700rpx">
+   <image src="{{quinoasrc}}"></image>
+   <text class="foodname">俗名：藜麦</text>
+</button>
+
+<button bindtap="gotopotato" style="width: 700rpx">
+   <image src="{{potatosrc}}"></image>
+   <text class="foodname">俗名：马铃薯</text>
+</button>
+
+<button bindtap="gotocassava" style="width: 700rpx">
+   <image src="{{cassavasrc}}"></image>
+   <text class="foodname">俗名：木薯</text>
+</button>
+
+<button bindtap="gotopurplepotato" style="width: 700rpx">
+   <image src="{{purplepotatosrc}}"></image>
+   <text class="foodname">俗名：紫薯</text>
+</button>
+
+<button bindtap="gotosesameseed" style="width: 700rpx">
+   <image src="{{sesameseedsrc}}"></image>
+   <text class="foodname">俗名：芝麻</text>
+</button>
+
+<button bindtap="gotoglutinousrice" style="width: 700rpx">
+   <image src="{{glutinousricesrc}}"></image>
+   <text class="foodname">俗名：糯米</text>
+</button>
+
+<button bindtap="gotooat" style="width: 700rpx">
+   <image src="{{oatsrc}}"></image>
+   <text class="foodname">俗名：燕麦</text>
+</button>
+
+<button bindtap="gotojobstears" style="width: 700rpx">
+   <image src="{{jobstearssrc}}"></image>
+   <text class="foodname">俗名：薏米</text>
+</button>
+
+<button bindtap="gotospaghetti" style="width: 700rpx">
+   <image src="{{spaghettisrc}}"></image>
+   <text class="foodname">俗名：意大利面</text>
+</button>
+
+</view>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

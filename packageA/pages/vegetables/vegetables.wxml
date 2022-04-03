@@ -1,0 +1,326 @@
+<!--packageA/pages/vegetables/vegetables.wxml-->
+
+<button bindtap="gotoswordbean" style="width: 700rpx">
+   <image src="{{swordbeansrc}}"></image>
+   <text class="foodname">俗名：刀豆</text>
+</button>
+
+<button bindtap="gotolycium" style="width: 700rpx">
+   <image src="{{lyciumsrc}}"></image>
+   <text class="foodname">俗名：枸杞叶</text>
+</button>
+
+<button bindtap="gotocabmustard" style="width: 700rpx">
+   <image src="{{cabmustardsrc}}"></image>
+   <text class="foodname">俗名：芥兰</text>
+</button>
+
+<button bindtap="gotolatifolia" style="width: 700rpx">
+   <image src="{{latifoliasrc}}"></image>
+   <text class="foodname">俗名：茭白</text>
+</button>
+
+<button bindtap="gotochiehqua" style="width: 700rpx">
+   <image src="{{chiehquasrc}}"></image>
+   <text class="foodname">俗名：节瓜</text>
+</button>
+
+<button bindtap="gotogarlic" style="width: 700rpx">
+   <image src="{{garlicsrc}}"></image>
+   <text class="foodname">俗名：大蒜</text>
+</button>
+
+<button bindtap="gotowintercold" style="width: 700rpx">
+   <image src="{{wintercoldsrc}}"></image>
+   <text class="foodname">俗名：冬寒菜</text>
+</button>
+
+<button bindtap="gotowintershoots" style="width: 700rpx">
+   <image src="{{wintershootssrc}}"></image>
+   <text class="foodname">俗名：冬笋</text>
+</button>
+
+<button bindtap="gotobeansprouts" style="width: 700rpx">
+   <image src="{{beansproutssrc}}"></image>
+   <text class="foodname">俗名：豆芽</text>
+</button>
+
+<button bindtap="gotolotusroot" style="width: 700rpx">
+   <image src="{{lotusrootsrc}}"></image>
+   <text class="foodname">俗名：莲藕</text>
+</button>
+
+<button bindtap="gotolongdou" style="width: 700rpx">
+   <image src="{{longdousrc}}"></image>
+   <text class="foodname">俗名：龙豆</text>
+</button>
+
+<button bindtap="gotomaodou" style="width: 700rpx">
+   <image src="{{maodousrc}}"></image>
+   <text class="foodname">俗名：毛豆</text>
+</button>
+
+<button bindtap="gotookra" style="width: 700rpx">
+   <image src="{{okrasrc}}"></image>
+   <text class="foodname">俗名：秋葵</text>
+</button>
+
+<button bindtap="gototowelgourd" style="width: 700rpx">
+   <image src="{{towelgourdsrc}}"></image>
+   <text class="foodname">俗名：金丝瓜</text>
+</button>
+
+<button bindtap="gotodaylily" style="width: 700rpx">
+   <image src="{{daylilysrc}}"></image>
+   <text class="foodname">俗名：金针菜</text>
+</button>
+
+<button bindtap="gotodriedmushroom" style="width: 700rpx">
+   <image src="{{driedmushroomsrc}}"></image>
+   <text class="foodname">俗名：口蘑</text>
+</button>
+
+<button bindtap="gotolingnut" style="width: 700rpx">
+   <image src="{{lingnutsrc}}"></image>
+   <text class="foodname">俗名：菱角</text>
+</button>
+
+<button bindtap="gotofungus" style="width: 700rpx">
+   <image src="{{fungussrc}}"></image>
+   <text class="foodname">俗名：木耳</text>
+</button>
+
+<button bindtap="gotoluffa" style="width: 700rpx">
+   <image src="{{luffasrc}}"></image>
+   <text class="foodname">俗名：丝瓜</text>
+</button>
+
+<button bindtap="gotopea" style="width: 700rpx">
+   <image src="{{peasrc}}"></image>
+   <text class="foodname">俗名：豌豆</text>
+</button>
+
+<button bindtap="gotoedibleam" style="width: 700rpx">
+   <image src="{{edibleamsrc}}"></image>
+   <text class="foodname">俗名：苋菜</text>
+</button>
+
+<button bindtap="gotobroccoli" style="width: 700rpx">
+   <image src="{{broccolisrc}}"></image>
+   <text class="foodname">俗名：西兰花</text>
+</button>
+
+<button bindtap="gotochaxingu" style="width: 700rpx">
+   <image src="{{chaxingusrc}}"></image>
+   <text class="foodname">俗名：茶树菇</text>
+</button>
+
+<button bindtap="gotoarecataro" style="width: 700rpx">
+   <image src="{{arecatarosrc}}"></image>
+   <text class="foodname">俗名：槟榔芋</text>
+</button>
+
+<button bindtap="gotowhitegourd" style="width: 700rpx">
+   <image src="{{whitegourdsrc}}"></image>
+   <text class="foodname">俗名：冬瓜</text>
+</button>
+
+<button bindtap="gotobigcabbage" style="width: 700rpx">
+   <image src="{{bigcabbagesrc}}"></image>
+   <text class="foodname">俗名：大白菜</text>
+</button>
+
+<button bindtap="gotospinach" style="width: 700rpx">
+   <image src="{{spinachsrc}}"></image>
+   <text class="foodname">俗名：菠菜</text>
+</button>
+
+<button bindtap="gotobeans" style="width: 700rpx">
+   <image src="{{beanssrc}}"></image>
+   <text class="foodname">俗名：豆角</text>
+</button>
+
+<button bindtap="gototomato" style="width: 700rpx">
+   <image src="{{tomatosrc}}"></image>
+   <text class="foodname">俗名：番茄</text>
+</button>
+
+<button bindtap="gotocarrot" style="width: 700rpx">
+   <image src="{{carrotsrc}}"></image>
+   <text class="foodname">俗名：红萝卜</text>
+</button>
+
+<button bindtap="gotokelp" style="width: 700rpx">
+   <image src="{{kelpsrc}}"></image>
+   <text class="foodname">俗名：海带</text>
+</button>
+
+<button bindtap="gotofennel" style="width: 700rpx">
+   <image src="{{fennelsrc}}"></image>
+   <text class="foodname">俗名：茴香</text>
+</button>
+
+<button bindtap="gotoshepurse" style="width: 700rpx">
+   <image src="{{shepursesrc}}"></image>
+   <text class="foodname">俗名：荠菜</text>
+</button>
+
+<button bindtap="gotocauliflower" style="width: 700rpx">
+   <image src="{{cauliflowersrc}}"></image>
+   <text class="foodname">俗名：花菜</text>
+</button>
+
+<button bindtap="gotolawyerwing" style="width: 700rpx">
+   <image src="{{lawyerwingsrc}}"></image>
+   <text class="foodname">俗名：鸡腿菇</text>
+</button>
+
+<button bindtap="gotocucumber" style="width: 700rpx">
+   <image src="{{cucumbersrc}}"></image>
+   <text class="foodname">俗名：黄瓜</text>
+</button>
+
+<button bindtap="gotoherinaceus" style="width: 700rpx">
+   <image src="{{herinaceussrc}}"></image>
+   <text class="foodname">俗名：猴头菇</text>
+</button>
+
+<button bindtap="gotowaterspinach" style="width: 700rpx">
+   <image src="{{waterspinachsrc}}"></image>
+   <text class="foodname">俗名：空心菜</text>
+</button>
+
+<button bindtap="gotopumpkin" style="width: 700rpx">
+   <image src="{{pumpkinsrc}}"></image>
+   <text class="foodname">俗名：南瓜</text>
+</button>
+
+<button bindtap="gotoneedle" style="width: 700rpx">
+   <image src="{{needlesrc}}"></image>
+   <text class="foodname">俗名：金针菇</text>
+</button>
+
+<button bindtap="gotocelery" style="width: 700rpx">
+   <image src="{{celerysrc}}"></image>
+   <text class="foodname">俗名：芹菜</text>
+</button>
+
+<button bindtap="gotoleek" style="width: 700rpx">
+   <image src="{{leeksrc}}"></image>
+   <text class="foodname">俗名：韭菜</text>
+</button>
+
+<button bindtap="gotobalsampear" style="width: 700rpx">
+   <image src="{{balsampearsrc}}"></image>
+   <text class="foodname">俗名：苦瓜</text>
+</button>
+
+<button bindtap="gotoeggplant" style="width: 700rpx">
+   <image src="{{eggplantsrc}}"></image>
+   <text class="foodname">俗名：茄子</text>
+</button>
+
+<button bindtap="gotopepper" style="width: 700rpx">
+   <image src="{{peppersrc}}"></image>
+   <text class="foodname">俗名：辣椒</text>
+</button>
+
+<button bindtap="gotooystermushroom" style="width: 700rpx">
+   <image src="{{oystermushroomsrc}}"></image>
+   <text class="foodname">俗名：平菇</text>
+</button>
+
+<button bindtap="gotogreenpepper" style="width: 700rpx">
+   <image src="{{greenpeppersrc}}"></image>
+   <text class="foodname">俗名：青椒</text>
+</button>
+
+<button bindtap="gotogreenpapaya" style="width: 700rpx">
+   <image src="{{greenpapayasrc}}"></image>
+   <text class="foodname">俗名：青木瓜</text>
+</button>
+
+<button bindtap="gotoannua" style="width: 700rpx">
+   <image src="{{annuasrc}}"></image>
+   <text class="foodname">俗名：茼蒿</text>
+</button>
+
+<button bindtap="gotobeetroot" style="width: 700rpx">
+   <image src="{{beetrootsrc}}"></image>
+   <text class="foodname">俗名：甜菜根</text>
+</button>
+
+<button bindtap="gotolettuce" style="width: 700rpx">
+   <image src="{{lettucesrc}}"></image>
+   <text class="foodname">俗名：生菜</text>
+</button>
+
+<button bindtap="gototoona" style="width: 700rpx">
+   <image src="{{toonasrc}}"></image>
+   <text class="foodname">俗名：香椿</text>
+</button>
+
+<button bindtap="gotosquash" style="width: 700rpx">
+   <image src="{{squashsrc}}"></image>
+   <text class="foodname">俗名：西葫芦</text>
+</button>
+
+<button bindtap="gotoxiangu" style="width: 700rpx">
+   <image src="{{xiangusrc}}"></image>
+   <text class="foodname">俗名：香菇</text>
+</button>
+
+<button bindtap="gotocoriander" style="width: 700rpx">
+   <image src="{{coriandersrc}}"></image>
+   <text class="foodname">俗名：香菜</text>
+</button>
+
+<button bindtap="gotoxinradish" style="width: 700rpx">
+   <image src="{{xinradishsrc}}"></image>
+   <text class="foodname">俗名：心里美萝卜</text>
+</button>
+
+<button bindtap="gotosauerkraut" style="width: 700rpx">
+   <image src="{{sauerkrautsrc}}"></image>
+   <text class="foodname">俗名：雪菜</text>
+</button>
+
+<button bindtap="gototremella" style="width: 700rpx">
+   <image src="{{tremellasrc}}"></image>
+   <text class="foodname">俗名：银耳</text>
+</button>
+
+<button bindtap="gotoxinbaogu" style="width: 700rpx">
+   <image src="{{xinbaogusrc}}"></image>
+   <text class="foodname">俗名：杏鲍菇</text>
+</button>
+
+<button bindtap="gotodictyophora" style="width: 700rpx">
+   <image src="{{dictyophorasrc}}"></image>
+   <text class="foodname">俗名：竹荪</text>
+</button>
+
+<button bindtap="gotonorl" style="width: 700rpx">
+   <image src="{{norlsrc}}"></image>
+   <text class="foodname">俗名：紫菜</text>
+</button>
+
+<button bindtap="gotocordata" style="width: 700rpx">
+   <image src="{{cordatasrc}}"></image>
+   <text class="foodname">俗名：鱼腥草</text>
+</button>
+
+<button bindtap="gotomorel" style="width: 700rpx">
+   <image src="{{morelsrc}}"></image>
+   <text class="foodname">俗名：羊肚菌</text>
+</button>
+
+<button bindtap="gotoelmseeds" style="width: 700rpx">
+   <image src="{{elmseedssrc}}"></image>
+   <text class="foodname">俗名：榆钱</text>
+</button>
+
+<button bindtap="gototaro" style="width: 700rpx">
+   <image src="{{tarosrc}}"></image>
+   <text class="foodname">俗名：芋头</text>
+</button>

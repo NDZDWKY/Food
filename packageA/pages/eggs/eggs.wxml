@@ -1,0 +1,21 @@
+<!--packageA/pages/eggs/eggs.wxml-->
+
+<button bindtap="gotoduckegg" style="width: 700rpx;height: 200rpx;">
+   <image class="foodpc" src="{{duckeggsrc}}"></image>
+   <text class="foodname">俗名：鸭蛋</text>
+</button>
+
+<button bindtap="gotoquailegg" style="width: 700rpx;height: 200rpx;">
+   <image class="foodpc" src="{{quaileggsrc}}"></image>
+   <text class="foodname">俗名：鹌鹑蛋</text>
+</button>
+
+<button bindtap="gotooval" style="width: 700rpx;height: 200rpx;">
+   <image class="foodpc" src="{{ovalsrc}}"></image>
+   <text class="foodname">俗名：鹅蛋</text>
+</button>
+
+<button bindtap="gotoegg" style="width: 700rpx;height: 200rpx;">
+   <image class="foodpc" src="{{eggsrc}}"></image>
+   <text class="foodname">俗名：鸡蛋</text>
+</button>

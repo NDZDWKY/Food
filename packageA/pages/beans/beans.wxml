@@ -1,0 +1,83 @@
+<!--packageA/pages/beans/beans.wxml-->
+
+<button bindtap="gototofu" style="width: 700rpx;">
+   <image class="foodpc" src="{{tofusrc}}"></image>
+   <text class="foodname">俗名：豆腐</text>
+</button>
+
+<button bindtap="gotobeancurd" style="width: 700rpx;">
+   <image class="foodpc" src="{{beancurdsrc}}"></image>
+   <text class="foodname">俗名：腐竹</text>
+</button>
+
+<button bindtap="gotosheets" style="width: 700rpx;">
+   <image class="foodpc" src="{{sheetssrc}}"></image>
+   <text class="foodname">俗名：千张</text>
+</button>
+
+<button bindtap="gotoblackbean" style="width: 700rpx;">
+   <image class="foodpc" src="{{blackbeansrc}}"></image>
+   <text class="foodname">俗名：黑豆</text>
+</button>
+
+<button bindtap="gotointestine" style="width: 700rpx;">
+   <image class="foodpc" src="{{intestinesrc}}"></image>
+   <text class="foodname">俗名：素大肠</text>
+</button>
+
+<button bindtap="gotopetits" style="width: 700rpx;">
+   <image class="foodpc" src="{{petitssrc}}"></image>
+   <text class="foodname">俗名：青豆</text>
+</button>
+
+<button bindtap="gototofuflowers" style="width: 700rpx;">
+   <image class="foodpc" src="{{tofuflowersrc}}"></image>
+   <text class="foodname">俗名：豆腐花</text>
+</button>
+
+<button bindtap="gotosoymilk" style="width: 700rpx;">
+   <image class="foodpc" src="{{soymilksrc}}"></image>
+   <text class="foodname">俗名：豆奶</text>
+</button>
+
+<button bindtap="gotosoybean" style="width: 700rpx;">
+   <image class="foodpc" src="{{soybeansrc}}"></image>
+   <text class="foodname">俗名：黄豆</text>
+</button>
+
+<button bindtap="gotodriedbeancurd" style="width: 700rpx;">
+   <image class="foodpc" src="{{driedbeancurdsrc}}"></image>
+   <text class="foodname">俗名：豆腐干</text>
+</button>
+
+<button bindtap="gotoskin" style="width: 700rpx;">
+   <image class="foodpc" src="{{skinsrc}}"></image>
+   <text class="foodname">俗名：豆腐皮</text>
+</button>
+
+<button bindtap="gotosilktofu" style="width: 700rpx;">
+   <image class="foodpc" src="{{silktofusrc}}"></image>
+   <text class="foodname">俗名：豆腐丝</text>
+</button>
+
+<button bindtap="gotoredbean" style="width: 700rpx;">
+   <image class="foodpc" src="{{redbeansrc}}"></image>
+   <text class="foodname">俗名：红豆</text>
+</button>
+
+<button bindtap="gotogreenbean" style="width: 700rpx;">
+   <image class="foodpc" src="{{greenbeansrc}}"></image>
+   <text class="foodname">俗名：绿豆</text>
+</button>
+
+<button bindtap="gotochickpea" style="width: 700rpx;">
+   <image class="foodpc" src="{{chickpeasrc}}"></image>
+   <text class="foodname">俗名：鹰嘴豆</text>
+</button>
+
+<!-- <view wx:for="{{pctx}}" wx:key="pctx">
+   <button class="click" bindtap="{{pctx[index].fx}}" style="width: 700rpx;height: 427rpx;">
+      <image class="food-pc" src="{{pctx[index].url}}"></image>
+      <text class="pctx">俗名：{{pctx[index].foodname}}</text>
+   </button>
+</view> -->

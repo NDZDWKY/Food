@@ -1,0 +1,20 @@
+/* packageA/pages/seafoods/seafoods.wxss */
+
+button{
+    height: 200rpx;
+    border-bottom: solid rgba(128, 128, 128, 0.219) thin;
+}
+
+image{
+    float: left;
+    margin-top: 16rpx;
+    width: 180rpx;
+    height: 132rpx;
+    border-radius: 10%;
+}
+text{
+    float: left;
+    margin-top: 16rpx;
+    margin-left: 20rpx;
+    font-family: '宋体';
+}

@@ -1,0 +1,191 @@
+<!--packageA/pages/seafoods/seafoods.wxml-->
+
+<button bindtap="gotoporgy" style="width: 700rpx">
+   <image src="{{porgysrc}}"></image>
+   <text>俗名：鲷鱼</text>
+</button>
+
+<button bindtap="gotooyster" style="width: 700rpx;">
+   <image src="{{oystersrc}}"></image>
+   <text>俗名：生蚝</text>
+</button>
+
+<button bindtap="gototrout" style="width: 700rpx">
+   <image src="{{troutsrc}}"></image>
+   <text>俗名：鳟鱼</text>
+</button>
+
+<button bindtap="gotomussel" style="width: 700rpx">
+   <image src="{{musselsrc}}"></image>
+   <text>俗名：河蚌</text>
+</button>
+
+<button bindtap="gotobream" style="width: 700rpx">
+   <image src="{{breamsrc}}"></image>
+   <text>俗名：鳊鱼</text>
+</button>
+
+<button bindtap="gotomackerel" style="width: 700rpx">
+   <image src="{{mackerelsrc}}"></image>
+   <text>俗名：鲅鱼</text>
+</button>
+
+<button bindtap="gotobasa" style="width: 700rpx">
+   <image src="{{basasrc}}"></image>
+   <text>俗名：巴沙鱼</text>
+</button>
+
+<button bindtap="gototurbot" style="width: 700rpx">
+   <image src="{{turbotsrc}}"></image>
+   <text>俗名：多宝鱼</text>
+</button>
+
+<button bindtap="gotodaiyu" style="width: 700rpx">
+   <image src="{{daiyusrc}}"></image>
+   <text>俗名：带鱼</text>
+</button>
+
+<button bindtap="gotomandarin" style="width: 700rpx">
+   <image src="{{mandarinsrc}}"></image>
+   <text>俗名：鳜鱼</text>
+</button>
+
+<button bindtap="gotospringfish" style="width: 700rpx">
+   <image src="{{springfishsrc}}"></image>
+   <text>俗名：多春鱼</text>
+</button>
+
+<button bindtap="gotosnakehead" style="width: 700rpx">
+   <image src="{{snakeheadsrc}}"></image>
+   <text>俗名：黑鱼</text>
+</button>
+
+<button bindtap="gotoricefieldeel" style="width: 700rpx">
+   <image src="{{ricefieldeelsrc}}"></image>
+   <text>俗名：黄鳝</text>
+</button>
+
+<button bindtap="gotolobster" style="width: 700rpx">
+   <image src="{{lobstersrc}}"></image>
+   <text>俗名：龙虾</text>
+</button>
+
+<button bindtap="gotocarp" style="width: 700rpx">
+   <image src="{{carpsrc}}"></image>
+   <text>俗名：鲤鱼</text>
+</button>
+
+<button bindtap="gotojellyskin" style="width: 700rpx">
+   <image src="{{jellyskinsrc}}"></image>
+   <text>俗名：海蜇皮</text>
+</button>
+
+<button bindtap="gotoslivercarp" style="width: 700rpx">
+   <image src="{{slivercarpsrc}}"></image>
+   <text>俗名：鲢鱼</text>
+</button>
+
+<button bindtap="gotojishrimp" style="width: 700rpx">
+   <image src="{{jishrimpsrc}}"></image>
+   <text>俗名：基围虾</text>
+</button>
+
+<button bindtap="gotogoldfish" style="width: 700rpx">
+   <image src="{{goldfishsrc}}"></image>
+   <text>俗名：金线鱼</text>
+</button>
+
+<button bindtap="gotoperch" style="width: 700rpx">
+   <image src="{{perchsrc}}"></image>
+   <text>俗名：鲈鱼</text>
+</button>
+
+<button bindtap="gototilapia" style="width: 700rpx">
+   <image src="{{tilapiasrc}}"></image>
+   <text>俗名：罗非鱼</text>
+</button>
+
+<button bindtap="gotoloach" style="width: 700rpx">
+   <image src="{{loachsrc}}"></image>
+   <text>俗名：泥鳅</text>
+</button>
+
+<button bindtap="gotoeel" style="width: 700rpx">
+   <image src="{{eelsrc}}"></image>
+   <text>俗名：鳗鱼</text>
+</button>
+
+<button bindtap="gotosnaillion" style="width: 700rpx">
+   <image src="{{snaillionsrc}}"></image>
+   <text>俗名：螺蛳</text>
+</button>
+
+<button bindtap="gotoskinshrimp" style="width: 700rpx">
+   <image src="{{skinshrimpsrc}}"></image>
+   <text>俗名：皮皮虾</text>
+</button>
+
+<button bindtap="gotomilkfish" style="width: 700rpx">
+   <image src="{{milkfishsrc}}"></image>
+   <text>俗名：虱目鱼</text>
+</button>
+
+<button bindtap="gotogreenshrimp" style="width: 700rpx">
+   <image src="{{greenshrimpsrc}}"></image>
+   <text>俗名：青虾</text>
+</button>
+
+<button bindtap="gotosalmon" style="width: 700rpx">
+   <image src="{{salmonsrc}}"></image>
+   <text>俗名：三文鱼</text>
+</button>
+
+<button bindtap="gotocatfish" style="width: 700rpx">
+   <image src="{{catfishsrc}}"></image>
+   <text>俗名：鲶鱼</text>
+</button>
+
+<button bindtap="gotosardine" style="width: 700rpx">
+   <image src="{{sardinesrc}}"></image>
+   <text>俗名：沙丁鱼</text>
+</button>
+
+<button bindtap="gotochub" style="width: 700rpx">
+   <image src="{{chubsrc}}"></image>
+   <text>俗名：鲐鱼</text>
+</button>
+
+<button bindtap="gotosnail" style="width: 700rpx">
+   <image src="{{snailsrc}}"></image>
+   <text>俗名：田螺</text>
+</button>
+
+<button bindtap="gotoshrimp" style="width: 700rpx">
+   <image src="{{shrimpsrc}}"></image>
+   <text>俗名：虾</text>
+</button>
+
+<button bindtap="gotoscallop" style="width: 700rpx">
+   <image src="{{scallopsrc}}"></image>
+   <text>俗名：鲜贝</text>
+</button>
+
+<button bindtap="gotofrog" style="width: 700rpx">
+   <image src="{{frogsrc}}"></image>
+   <text>俗名：田鸡</text>
+</button>
+
+<button bindtap="gotoyinyu" style="width: 700rpx">
+   <image src="{{yinyusrc}}"></image>
+   <text>俗名：银鱼</text>
+</button>
+
+<button bindtap="gotocod" style="width: 700rpx">
+   <image src="{{codsrc}}"></image>
+   <text>俗名：鳕鱼</text>
+</button>
+
+<button bindtap="gotooutopus" style="width: 700rpx">
+   <image src="{{outopussrc}}"></image>
+   <text>俗名：章鱼</text>
+</button>

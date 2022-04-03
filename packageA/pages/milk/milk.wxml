@@ -1,0 +1,21 @@
+<!--packageA/pages/milk/milk.wxml-->
+
+<button bindtap="gotocondensed" style="width: 700rpx">
+   <image src="{{condensedsrc}}"></image>
+   <text class="foodname">俗名：炼乳</text>
+</button>
+
+<button bindtap="gotocheese" style="width: 700rpx">
+   <image src="{{cheesesrc}}"></image>
+  <text class="foodname">俗名：奶酪</text>
+</button>
+
+<button bindtap="gotoyogurt" style="width: 700rpx">
+   <image src="{{yogurtsrc}}"></image>
+   <text class="foodname">俗名：酸奶</text>
+</button>
+
+<button bindtap="gotomilk" style="width: 700rpx">
+   <image src="{{milksrc}}"></image>
+   <text class="foodname">俗名：牛奶</text>
+</button>
