@@ -5,14 +5,25 @@ Page({
      * 页面的初始数据
      */
     data: {
-        value: '',
-        onChange(event) {
-            // event.detail 为当前输入的值
-            console.log(event.detail);
-          },
+        person:{
+            height:'',
+            weight:'',
+            bmi:'0'
+        }
+        
 
     },
-
+   updateValue:function(event){
+       var that =this
+    let name=event.currentTarget.dataset.name;
+    let person=that.data.person
+    person[name]=event.detail.value
+    that.setData({
+        person:person
+    })
+    console.log(person);
+   },
+   
     /**
      * 生命周期函数--监听页面加载
      */
