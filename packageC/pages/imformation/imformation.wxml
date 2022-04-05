@@ -1,18 +1,30 @@
 <!--packageC/pages/imformation/imformation.wxml-->
 
-<view class="i-text">
-
-    <text style="position: relative;left: 20rpx;top: 25rpx;float: left;">姓名：</text>
-<view style="float:left; ">
-  <van-cell-group >
-  <van-field
-    value="{{ value }}"
-    placeholder="请输入用户名"
-    border="{{ false }}"
-    bind:change="onChange"
-  />
-</van-cell-group>
-</view>
-
+<view class="b_view">
+  <view class="i-text">
+  <view class="title">
+    姓名</view>
+    <input placeholder="请输入名字" style="position: relative;top: 24rpx;"></input>
+  </view>
+  <view class="i-text">
+  <view class="title">
+    年龄</view>
+    <input placeholder="请输入年龄" style="position: relative;top: 24rpx;"></input>
+  </view>
+  <view class="i-text">
+  <view class="title">
+    身高</view>
+    <input placeholder="请输入身高（米）" style="position: relative;top: 24rpx;" value='{{person.height}}' data-name='height' bindinput="updateValue" ></input>
+  </view>
+  <view class="i-text">
+  <view class="title">
+    体重</view>
+    <input placeholder="请输入体重（千克）" style="position: relative;top: 24rpx; " value='{{person.weight}}' data-name='weight' bindinput="updateValue" ></input>
+  </view>
+  <view class="i-text">
+  <view class="title">
+    BMI</view>
+ 
+  </view>
 
 </view>
