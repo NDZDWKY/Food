@@ -1,14 +1,29 @@
 /* packageC/pages/imformation/imformation.wxss */
-.i-text{
+.b_view{
+    background-color: white;
     position: relative;
     top: 24rpx;
-    
+    height: 600rpx;
+   
+}
+.i-text{
+    position: relative;
+    top: 10rpx;
+    margin-right: 10rpx;
     width: 750rpx;
     height: 100rpx;
+    border-bottom:solid 1rpx gainsboro;
     
 
 }
-.i-view{
-    margin-bottom: 10rpx;
+
+.title{
   
+    margin-top: 20rpx;
+    margin-left: 40rpx;
+    margin-right: 40rpx;
+    width: 70rpx;
+    height: 20rpx;
+    float: left;
+    font-size: large;
 }
