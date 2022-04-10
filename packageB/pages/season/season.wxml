@@ -1,2 +1,70 @@
 <!--packageB/pages/season/season.wxml-->
-<text>packageB/pages/season/season.wxml</text>
+<button bindtap="gotolichun" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/2dTtSJIyKZCj1Hu.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoyushui" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/BIuxAg2Ctm1aZDd.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotojingzhe" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/w9xJKnM2odihWq5.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoqingming" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/LdU7yDqjsBSJtOm.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoguyu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/G2eTc4KPJODjr9M.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotolixia" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/SCxdhYkr9sWHvPK.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoxiaoman" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/M6TBQ2zcsJYG71k.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotomangzhong" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/jIZVTO3u5MUCqkz.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoxiazhi" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/CZ8sepLcuVq6BFJ.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoxiaoshu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/2LsMTF6CSwxJkmv.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotodashu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/DFE4vw5kxrWnOZB.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoliqiu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/dsXADQwK432Emo9.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotochushu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/IGODdkluscSajmN.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotobailu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/9ADyJLKCF1bMe26.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoqiufen" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/QPcGwmsNhlT24vU.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotohanlu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/ljGR8q2HBWKXd4z.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoshuangjiang" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/iargJbKf7cU3p2X.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotolidong" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/h31ZRcQdCgyABSF.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoxiaoxue" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/oslOa6f3gy7DiUV.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotodaxue" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/FBgtCMKuSWPmIbL.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotodongzhi" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/41uxTWB6zvLaAhe.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoxiaohan" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/lXfw2BNRY7Spnac.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotodahan" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/10/GxwFaNCSoByRrkp.png" style="width: 100%;height: 100%;"></image>
+</button>
