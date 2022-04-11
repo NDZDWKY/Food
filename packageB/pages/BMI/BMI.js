@@ -7,7 +7,21 @@ Page({
     data: {
 
     },
-
+    gotozhengchang(){
+        wx.navigateTo({
+          url: '/packageB_B/pages/zhengchang/zhengchang',
+        })
+    },
+    gotochaozhong(){
+        wx.navigateTo({
+          url: '/packageB_B/pages/chaozhong/chaozhong',
+        })
+    },
+    gotofeipang(){
+        wx.navigateTo({
+          url: '/packageB_B/pages/feipang/feipang',
+        })
+    },
     /**
      * 生命周期函数--监听页面加载
      */
