@@ -7,7 +7,36 @@ Page({
     data: {
 
     },
-
+    gotoyingyouer(){
+        wx.navigateTo({
+          url: '/packageB_C/pages/yingyouer/yingyouer',
+        })
+    },
+    gotoshaoer(){
+        wx.navigateTo({
+          url: '/packageB_C/pages/shaoer/shaoer',
+        })
+    },
+    gotoqingshaonian(){
+        wx.navigateTo({
+          url: '/packageB_C/pages/qingshaonian/qingshaonian',
+        })
+    },
+    gotoqingnian(){
+        wx.navigateTo({
+          url: '/packageB_C/pages/qingnian/qingnian',
+        })
+    },
+    gotozhongnian(){
+        wx.navigateTo({
+          url: '/packageB_C/pages/zhongnian/zhongnian',
+        })
+    },
+    gotolaonian(){
+        wx.navigateTo({
+          url: '/packageB_C/pages/laonian/laonian',
+        })
+    },
     /**
      * 生命周期函数--监听页面加载
      */
