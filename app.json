@@ -333,6 +333,27 @@
           "pages/xiaohan/xiaohan",
           "pages/dahan/dahan"
         ]
+      },{
+        "root": "packageB_B",
+        "name": "pack2_2",
+        "pages": [
+          "pages/zhengchang/zhengchang",
+          "pages/chaozhong/chaozhong",
+          "pages/feipang/feipang"
+          
+        ]
+      },{
+        "root": "packageB_C",
+        "name": "pack2_3",
+        "pages": [
+          "pages/yingyouer/yingyouer",
+          "pages/shaoer/shaoer",
+          "pages/qingshaonian/qingshaonian",
+          "pages/qingnian/qingnian",
+          "pages/zhongnian/zhongnian",
+          "pages/laonian/laonian"
+          
+        ]
       }
     ],
 
