@@ -1,2 +1,10 @@
 <!--packageB/pages/BMI/BMI.wxml-->
-<text>packageB/pages/BMI/BMI.wxml</text>
+<button bindtap="gotozhengchang" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/11/ij1GDodaLKlkrhZ.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotochaozhong" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/11/cbtLKk4XdWFPNzh.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotofeipang" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/11/wm4ubGloQFcACz5.png" style="width: 100%;height: 100%;"></image>
+</button>
