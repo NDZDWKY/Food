@@ -1,0 +1,44 @@
+<!--packageB_B_A/pages/qinghuayu/qinghuayu.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/12/ixZYevaAbNKtDSu.png" style="width: 100%;height: 100%;"></image>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/GfhZDoc67ljNmWd.png" class="image_first"></image>
+    <text class="text_first">背景简介</text>
+</view>
+<view class="view_second">
+  首先先来了解一下青花鱼吧，青花鱼肉质丰厚，鱼脂丰富、风味十足，而且富含丰富蛋白质和有益于大脑的DHA和EPA，是一道简单、健康、美味的海鲜。挪威青花鱼由于其自然环境、低密度养殖，更是成就了青花鱼的营养与美味，对于健身减重者，美食爱好者，忙碌加班人，以及处于成长发育旺盛期的宝宝来说，都是相当不错的选择。</view>
+  <view class="view_third">
+在青花鱼的日常吃法中以盐烤和照烧最为受大众喜爱，盐烤青花鱼之所以会百吃不厌，是因为它的美味来自于海盐和鱼本身用海盐调出鱼肉本身的鲜味，保留了青花鱼原有的色泽和味道。而照烧青花鱼不但美味营养，而且有明亮的照烧酱汁浇在青花鱼纹理清晰的鱼皮上，呈现出的美感是视觉和味觉的双重治愈。
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 日式盐青花鱼   1袋 </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料 : 西兰花   4朵 </text>
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.准备带有MSC小蓝鱼标识的青花鱼，是独立的抽真空密封包装，单独包装取用便捷，而且干净卫生，小巧易于存放</view>
+<view class="view_second">
+        2.采用的烹饪方法是烤，这种青花鱼是速食品，简单快速就能让你吃到正宗的味道，用烤的方法呈现的是外焦里嫩的口感，烤箱200度，烤5-10分钟，至表皮焦香。
+</view>
+<view class="view_second">
+    3.如果没有烤箱也可以用微波炉中火加热约40秒，或放入蒸锅水开后蒸3分钟，或连袋放入开水锅中加热8分钟即可享用。蒸和煮的方法能让整条青花鱼吃起来都是嫩嫩滑滑的口感。
+</view>
+<view class="view_second">
+    4.搭配一点蔬菜，西兰花，胡萝卜等等都可以，焯水加少量盐就可以了，轻食简餐更加健康。
+</view>
