@@ -1,0 +1,46 @@
+<!--packageB_B_A/pages/liangban/liangban.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/13/MTcQ1zZDXqAwoeN.png"style="width: 100%;height: 100%;"></image>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/GfhZDoc67ljNmWd.png" class="image_first"></image>
+    <text class="text_first">背景简介</text>
+</view>
+<view class="view_second">
+    鸡胸脯肉蛋白质含量较高，且易被人体吸收入利用，有增强体力，强壮身体的作用，所含对人体生长发育有重要作用的磷脂类，是中国人膳食结构中蛋白和磷脂的重要来源之一。鸡胸脯肉有益五脏，补虚损，补虚健胃、强筋壮骨、活血通络、调月经、止白带等作用。</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 鸡胸脯肉 200g     </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料 : 花椒 3g | 八角 3g | 香菜 10g 
+  </text>
+    
+</view>
+<view class="view_forth">
+    <text class="text_second">蒜 10g | 姜 5g | 自制辣椒油 4勺 | 糖 1勺 | 醋 2勺  盐 2匙 | 味精 0.2匙   </text>
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.新鲜的鸡胸脯肉洗净备用。鸡胸脯肉放入锅中添加适量清水再放入姜片、花椒、八角。</view>
+   
+   
+<view class="view_second">
+    2.放入调味料一品鲜酱油、蚝油、糖大火煮起来。鸡胸脯肉在煮的时候会有浮沫切记一定要取出。鸡胸脯肉煮十五分钟熟透即可。
+</view>
+<view class="view_second">
+    3.鸡胸脯肉取出晾凉至不烫手。需要耐心的把鸡胸脯肉撕成丝。自制辣椒油、糖、味精、醋、盐拌匀淋在鸡胸脯肉上。撒上香菜提鲜。
+</view>
+
