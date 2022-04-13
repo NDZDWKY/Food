@@ -1,0 +1,42 @@
+<!--packageB_B_A/pages/sanwenyu/sanwenyu.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/13/I5fv6uakyYeg8JF.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 三文鱼排 250克|荸荠 6只 |莴笋 1段  
+        </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料 : 白果仁 适量 | 盐 适量 
+
+
+
+  </text>
+    
+</view>
+
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.荸荠，莴笋去皮。荸荠，莴笋，三文鱼切丁。白果仁加清水煮熟。</view>
+   
+   
+<view class="view_second">
+    2.三文鱼油锅煎成表皮起壳盛出。热锅凉油，煸炒莴笋，荸荠十几秒。加入三文鱼，白果仁，少许的盐，少许的清水。大火翻炒均匀就可以。
+</view>
+
+
+
