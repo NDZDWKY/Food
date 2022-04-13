@@ -1,0 +1,49 @@
+<!--packageB_B_A/pages/xilanhua/xilanhua.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/13/wYWDdfO7uAkP1K6.png"style="width: 100%;height: 100%;"></image>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/GfhZDoc67ljNmWd.png" class="image_first"></image>
+    <text class="text_first">背景简介</text>
+</view>
+<view class="view_second">
+    牛肉的营养价值：1、能够补脾胃，因为从中医食疗的角度上来讲牛肉入脾、胃经，对于脾胃虚弱、不思饮食、食欲下降、消化能力不良的人，适当食用牛肉有很好的滋补脾胃的作用。2、能够益气血、强筋骨，对于气血不足、腰膝酸软的人，适当食用牛肉，通过其补益气血的作用而达到缓解上述症状的功效，可以增强体质、强壮筋骨。</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 牛肉 150g|西兰花 200g|胡萝卜 30g        </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+<text class="text_second">蒜 10g |糖 1勺 | 蚝油 0.5勺 
+
+
+
+  </text>
+    
+</view>
+<view class="view_forth">
+    <text class="text_second">一品鲜酱油 0.5勺 | 盐 2匙 | 味精 0.2匙 | 淀粉 适量   </text>
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.牛肉切片放入调味料糖、一品鲜酱油、蚝油。放入适量淀粉拌匀腌制十分钟入味。</view>
+   
+   
+<view class="view_second">
+    2.锅中待人适量底油加热至七成热下入牛肉片炸至金黄色即可。炸好的牛肉片看着就好有食欲。
+</view>
+<view class="view_second">
+    3.西兰花掰好洗净放入开水中焯水断生后立即放入冷水中过凉沥干水份。
+锅中倒入底油加热放入蒜爆香再放入胡萝卜片炒匀，放入西兰花炒均匀。放入牛肉片同时放入盐和味精。调味均匀即可出锅享用。
+</view>
