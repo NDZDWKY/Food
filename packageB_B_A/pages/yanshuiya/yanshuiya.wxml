@@ -1,0 +1,51 @@
+<!--packageB_B_A/pages/yanshuiya/yanshuiya.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/13/Rw5rI3PQ49SUi1m.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 鸭子 半只      </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料 : 粗盐 50克 | 花椒粒 10克 | 桂皮 1小段 
+
+  </text>
+    
+</view>
+<view class="view_forth">
+    <text class="text_second">八角 2粒 | 香叶 3片 | 葱 适量 | 姜 适量 </text>
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1、先处理鸭子：鸭子处理干净，在水中浸泡几个小时，期间不断换水，洗净血水。控干，或者用厨房纸吸干水分。</view>
+   
+   
+<view class="view_second">
+    2、花椒、八角、桂皮、香叶、盐，一起小火炒，直到盐微黄关火冷却。
+</view>
+<view class="view_second">
+    3、炒好的腌料放凉后，和葱姜一起放入处理好的鸭子上。搓揉，鸭皮与刀口都要抹到，尽量使盐粒均匀裹在鸭肉表面，盖上保鲜膜。冷藏腌渍一晚上
+</view>
+<view class="view_second">
+    4、腌渍一夜的鸭子冲去表面盐粒，煮锅放水烧开, 放入腌渍过的鸭子, 放姜片, 葱 段,八角(2颗), 桂皮(1小段),料酒2茶匙。
+</view>
+<view class="view_second">
+    5、煮至水沸后，盖上盖子改最小火煮30分钟左右至鸭肉熟透。（保持水面似沸非沸,煮好的鸭子取出，放入冷水中过凉
+</view>
+<view class="view_second">
+    6、将煮鸭汤过滤出渣滓放凉，将冰水中过凉的鸭腿浸入鸭汤中，放入冰箱冷藏一晚。吃时取出切件即可，皮白如玉，细嫩咸香。
+</view>
+
