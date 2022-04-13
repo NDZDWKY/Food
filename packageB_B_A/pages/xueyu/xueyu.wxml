@@ -1,0 +1,43 @@
+<!--packageB_B_A/pages/xueyu/xueyu.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/13/7yhJdOLl8jDZkGU.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 狭鳕鱼 200克|西生菜 80克 |蕃茄 50克   
+        </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料 : 柠檬 30克 |盐 3克 |五香粉 少许
+  </text>
+    
+</view>
+<view class="view_forth">
+    <text class="text_second">米酒 1勺 | 淀粉 适量 |蜂蜜 1勺  </text>
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.将鱼提前解冻，冲洗干净，控去水。放入盐、米酒。放入五香粉，抓拌均匀，腌30分钟。西生菜洗净，切丝。蕃茄洗净，切块。碗中放美极鲜调味汁，挤入些柠檬汁。放入蜂蜜，调匀。</view>
+   
+   
+<view class="view_second">
+    2.腌好的鱼片控去汁水，用厨房纸吸干表面水份。将鱼片蘸满淀粉，抖去多余的粉。热锅温油，放入鱼片，中小火煎。煎至一面上色后翻面，煎至两面金黄时盛出，中间翻动一两次即可，少翻。
+</view>
+<view class="view_second">
+    3.将西红柿、西生菜、煎好的鱼片摆入盘中，再切两片柠檬，用罗勒叶或其他菜叶装饰下即可，搭配调好的调汁食用。
+</view>
+
+
