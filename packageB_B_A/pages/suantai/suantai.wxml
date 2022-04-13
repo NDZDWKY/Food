@@ -1,0 +1,39 @@
+<!--packageB_B_A/pages/suantai/suantai.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/13/wlRr4b7MIJfAvo6.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 鸭胸肉 2块 | 蒜苔 100g       </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料 : 姜 1小块 | 泡椒 3只 | 酱油 2汤匙 
+
+
+  </text>
+    
+</view>
+<view class="view_forth">
+    <text class="text_second">蚝油 1汤匙 | 料酒 1汤匙 | 淀粉 少许 | 盐 适量 |油 适量  </text>
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.鸭胸肉去皮去油，洗净切片，加酱油、料酒、淀粉少许拌匀腌制待用。</view>
+   
+   
+<view class="view_second">
+    2.蒜苔洗净切段。姜切小片，泡椒切段。热油锅，倒入鸭片炒到变色后盛出去汁水。再热油锅，下蒜苔段略炒，倒入鸭片，加入姜片和泡椒炒翻炒。用水淀粉勾芡一下，加蚝油和盐调味炒匀即可。
+</view>
