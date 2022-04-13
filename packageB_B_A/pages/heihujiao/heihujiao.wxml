@@ -1,0 +1,35 @@
+<!--packageB_B_A/pages/heihujiao/heihujiao.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/12/WfK1cVS9iJkxFA4.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 肉眼牛排 「400克」  2块  </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料 : 大喜大黑胡椒烤肉酱 1包      橄榄油 10g </text>
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.牛排2块准备好，用厨房纸吸干水份，这一步是关键，不然煎牛肉的时候会出很多水。</view>
+   
+   
+<view class="view_second">
+    2.用黑椒味的烤肉酱倒在牛排上。用手抓匀，让牛排两面都均匀裹上烤肉酱。
+</view>
+<view class="view_second">
+    3.锅里放油，放入牛排。煎至两面变色，可以用筷子扒开看看中间是否熟透，煎好后切块装盘。
+</view>
