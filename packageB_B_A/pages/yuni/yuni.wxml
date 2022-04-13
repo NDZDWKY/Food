@@ -1,0 +1,42 @@
+<!--packageB_B_A/pages/yuni/yuni.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/12/3du8AX7CMJQ2URa.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 鸡胸肉 1块   芋头 3个   </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料 : 香葱 1根 | 生抽 1小勺 | 蚝油 1小勺   </text>
+    
+</view>
+<view class="view_forth">
+    <text class="text_second">料酒 1勺 | 胡椒粉 少许 | 盐 2g | 植物油 适量 </text>
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.把鸡胸肉洗净滤干水分，用牙签或其他针，戳几个孔，放入容器中加盐，料酒和胡椒粉，生姜粉，生抽和蚝油，戴上一次性手套给按摩搅拌均匀腌制5小时左右。</view>
+   
+   
+<view class="view_second">
+    2.期间给鸡胸肉翻翻身，取出滤干，用厨房吸纸吸干水分，表面涂抹植物油。准备烤盘，烤盘铺上油纸或锡纸，把腌制好鸡胸肉放入烤盘，烤箱温度180度，烤15分钟左右取出切片。
+</view>
+<view class="view_second">
+    3.芋头洗干净，放入锅中，锅中加水没过芋头煮到能用筷子戳入就好了，取出把皮剥去，放入搅拌机或破壁机中加少许盐和鸡汁，香葱清洗干净切碎放入，加20毫升水，搅拌2分钟即可到出。
+</view>
+<view class="view_second">
+    4.装盘；把打好的芋头泥倒入盘中，然后把切好的鸡胸肉放入盘中，撒上黑胡椒粉，用喜欢的水果装饰一下.
+</view>
