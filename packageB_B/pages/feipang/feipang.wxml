@@ -1,0 +1,31 @@
+<!--packageB_B/pages/feipang/feipang.wxml-->
+<button bindtap="gotohuanggua" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/jgxwUanuGs4WZPF.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotohaidai" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/Qxvnkc5u9dHOfpg.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotomachixian" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/YVd2cnt6NbDrWwO.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotokugua" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/ly58kNEZLVO42MC.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotohelandou" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/CUsAJhFER419i2T.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoshala" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/YvTGANsEXjm42rn.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotolimai" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/HI5vNsKucgwBYEX.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotobingcai" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/TSnXCxfIvh47moB.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoqincai" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/ax1nYOp5lcuXAKM.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotobaoyu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/16/oL43RIDfTblnYHi.png" style="width: 100%;height: 100%;"></image>
+</button>
