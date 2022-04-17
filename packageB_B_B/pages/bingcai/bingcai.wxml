@@ -1,0 +1,43 @@
+<!--packageB_B_B/pages/bingcai/bingcai.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/17/8ie9EPtkbUMZojm.png"style="width: 100%;height: 100%;"></image>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/GfhZDoc67ljNmWd.png" class="image_first"></image>
+    <text class="text_first">背景简介</text>
+</view>
+<view class="view_second">
+  
+提到“冰菜”，也许很多朋友并不是很熟悉，甚至有很多人都没有听说过。冰菜又名水晶冰菜、冰草、冰柱子，是最近几年传入国内的蔬菜。菜叶和菜梗上遍布水珠状泡膜，阳光反射下闪闪发光，有如一颗颗的冰晶。冰菜吃起来细嫩无渣，脆爽多汁，这种特质，也是通过生吃的方法最能体会。部分餐厅会把生吃的冰菜放在冰面上装盘，让冰菜的口感更加冰爽。 </view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:冰草 140克   
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:沙拉酱 2勺 | 沙拉醋 1勺 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.将大棵冰草拆开，清洗干净，沥干水。加入2勺沙拉酱、1勺沙拉醋搅拌均匀即可。</view>
+   
+   
+<view class="view_second">
+    2.因为冰菜本身含有天然植物盐，吃口上有淡淡的咸味。把冰菜洗干净，加点沙拉酱、沙拉醋就可以吃了。
+</view>
+

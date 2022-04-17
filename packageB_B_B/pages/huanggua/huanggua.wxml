@@ -1,0 +1,39 @@
+<!--packageB_B_B/pages/huanggua/huanggua.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/16/qLOAMaNrduG3SXR.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 黄瓜 适量  木耳 适量   </text>
+</view>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料 : 洋葱  青椒 蒜 干辣椒-- 适量  </text>
+    <view class="view_forth">
+    <text class="text_second">盐 生抽  辣椒油 醋  香油  鸡粉 -- 适量   </text>
+</view>
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.黄瓜洗净拍碎，木耳泡发切小块，洋葱和青椒洗净切丝，蒜剁碎，干辣椒切段。</view>
+   
+   
+<view class="view_second">
+    起锅烧油，油热放入蒜末和干辣椒炸香倒入食材。
+</view>
+<view class="view_second">
+    3.接着再往里加入适量的盐、生抽、辣椒油、醋、香油、鸡粉充分搅拌均匀就可以了，腌制片刻口感更佳。
+</view>
+

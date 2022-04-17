@@ -1,0 +1,35 @@
+<!--packageB_B_B/pages/helandou/helandou.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/17/V9RabQmhI2lnHgt.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 荷兰豆 适量|胡萝卜 一根     </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:腐竹 适量 |葱 适量|蒜 适量 |洋葱 适量   </text>
+    
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.腐竹提前浸泡软。各种配菜准备就绪。胡萝卜切花刀。荷兰豆和胡萝卜焯水，加适量油，腐竹用开水烫一下去除豆腥味。荷兰豆和胡萝卜过凉备用。</view>
+   
+   
+<view class="view_second">
+    2.腐竹攥干水分打斜刀，洋葱切丝。放入葱蒜末，加入辣椒粉用热油淋入。加盐，醋，酱油搅拌均匀。
+</view>
+

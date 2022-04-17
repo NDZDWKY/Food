@@ -1,0 +1,46 @@
+/* packageB_B_B/pages/baoyu/baoyu.wxss */
+.view_first{
+    height: 100rpx;
+    background-color:#c7e3a5;
+    margin: 23rpx;
+}
+.image_first{
+    position: relative;
+    top: 16rpx;
+    height: 70rpx;
+    width: 70rpx;
+}
+.text_first{
+    position: relative;
+    bottom: 10rpx;
+    left: 10rpx;
+    font-size: large;
+    font-weight: 600;
+    
+}
+.view_second{
+
+    margin: 23rpx;
+    margin-top: 0rpx;
+    margin-bottom: 0;
+    padding: 10rpx;
+}
+.view_third{
+    margin: 23rpx;
+    margin-top: 0rpx;
+    padding: 10rpx;
+  padding-top: 0;
+}
+.view_forth{
+    height: 100rpx;
+    
+    margin: 23rpx;
+}
+.text_second{
+    position: relative;
+    bottom: 10rpx;
+    left: 10rpx;
+    font-size: medium;
+    font-weight: 400;
+    
+}

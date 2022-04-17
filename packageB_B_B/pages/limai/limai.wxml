@@ -1,0 +1,44 @@
+<!--packageB_B_B/pages/limai/limai.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/17/maTYkZAlXRPgVDr.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:藜麦 100g |青虾 4只 |鸡蛋 2个  
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:生菜 适量|紫甘蓝 适量 |圣女果 适量 
+ </text>
+    
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.食材集合，藜麦提前浸泡十分钟，煮二十分钟备用，其它蔬菜清洗干净。</view>
+   
+   
+<view class="view_second">
+    2.青虾剥皮去虾线，入开水中煮一分钟捞出。紫甘蓝切碎烫一下捞出。生菜和苦苣切小块，小柿子对瓣切开放入大碗中。虾仁和藜麦全部放入大碗中。
+</view>
+<view class="view_second">
+    3.挤入适量沙拉酱拌匀。鸡蛋煮至蛋黄凝固切瓣，将拌好的食材摆入盘中即可。
+</view>
+
+
+
+
+

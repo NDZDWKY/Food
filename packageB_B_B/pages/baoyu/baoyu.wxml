@@ -1,0 +1,46 @@
+<!--packageB_B_B/pages/baoyu/baoyu.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/17/LYJ1yUsWC6QIBxA.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:香菇 适量 
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:盐 少许|淀粉 适量|生抽 2勺|糖 半勺 
+
+ </text>
+  
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.香菇剪去根部。下锅焯水后捞出。把、生抽、酱油、醋、糖、淀粉、耗油、少许盐、调匀成汁（还可以加一勺水调匀）。</view>
+   
+   
+<view class="view_second">
+    2.香菇切花刀、横竖都切几刀、不断底。用牙签固定、中间拱起来、更像是鲍鱼一样。然后裹上一层淀粉。锅中倒入适量油、先下花刀那面、下锅炸至金黄。再翻过来炸好沥出。
+</view>
+<view class="view_second">
+    3.锅中倒入少许油、下入汁。下入鲍鱼煮至汤汁浓稠即可。
+</view>
+
+
+
+
+
+

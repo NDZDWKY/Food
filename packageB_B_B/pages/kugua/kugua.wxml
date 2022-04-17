@@ -1,0 +1,37 @@
+<!--packageB_B_B/pages/kugua/kugua.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/17/IkQ1CRyY5Lq4lFz.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食 : 苦瓜 半个 | 木耳 适量    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:盐 少许|生抽 适量|醋 适量 |香油 少许 
+</text>
+    
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.备好食材，木耳泡发好。苦瓜洗净去瓤。切条。木耳煮一下捞出冲水。苦瓜焯下水捞出。</view>
+   
+   
+<view class="view_second">
+    2.用凉水凉一会。调料汁调好。倒一起，拌匀。
+</view>
+
+

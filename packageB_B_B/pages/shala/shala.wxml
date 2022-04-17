@@ -1,0 +1,53 @@
+<!--packageB_B_B/pages/shala/shala.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/17/nxi5DZU4X1COVW3.png"style="width: 100%;height: 100%;"></image>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/GfhZDoc67ljNmWd.png" class="image_first"></image>
+    <text class="text_first">背景简介</text>
+</view>
+<view class="view_second">
+    “减肥应该算是女人们终身奋斗的事业，很多人靠饿来减肥，我之前也是，但是饥饿感真的是非常难受，而且会让人情绪低落，不快乐，所以后来也不太能挨饿了，可能随着年龄的增长，人就会越来越不抗饿了！没办法，想保持身材，还要吃饱，那就必须调整饮食结构，要吃热量含量低的食物来增加饱腹感，往往这样的食物都很难吃，所以渐渐的总结出味道还不赖的沙拉汁，被称之为万能沙拉汁”。</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:小番茄 适量|西兰花 适量|生菜 适量|甜虾 适量 
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:玉米粒 适量|醋 1勺|蜂蜜 1勺|香油 1勺 
+ </text>
+    
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.来准备一下制作沙拉的主要食材，番茄洗净对半切开，西兰花洗净后剪成小朵，生菜洗净切丝备用，准备玉米粒和北极甜虾。</view>
+   
+   
+<view class="view_second">
+    2.锅中加入稍多清水烧开，来吧生的食材煮熟，北极甜虾是可以生食的，但我总觉得有点腥，所以也焯烫一下，将北极甜虾放入锅中。
+</view>
+<view class="view_second">
+    3.放入西兰花，焯烫2-3分钟，焯熟即可，捞出备用。接着把所有的食材全部放入小盆中，生菜也可以用苦菊代替，甜虾也可以用虾仁，都是热量含量很低的食材。
+</view>
+<view class="view_second">
+    4.万能沙拉汁，全部调料都是家里常用的，比例为1:1，全部放入小碗调匀即可，如果能吃蒜可以放一点蒜末。
+</view>
+<view class="view_second">
+    5.做好的沙拉汁倒入食材，搅拌均匀即可。
+</view>
+
+
+
