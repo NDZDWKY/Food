@@ -354,6 +354,39 @@
           "pages/laonian/laonian"
           
         ]
+      },{
+        "root": "packageB_B_A",
+        "name": "pack2_2_1",
+        "pages": [
+          "pages/qinghuayu/qinghuayu",
+          "pages/yuni/yuni",
+          "pages/jipai/jipai",
+          "pages/liangban/liangban",
+          "pages/suantai/suantai",
+          "pages/kusun/kusun",
+          "pages/heihujiao/heihujiao",
+          "pages/sanwenyu/sanwenyu",
+          "pages/xueyu/xueyu",
+          "pages/xilanhua/xilanhua",
+          "pages/yanshuiya/yanshuiya"
+          
+        ]
+      },{
+        "root": "packageB_B_B",
+        "name": "pack2_2_2",
+        "pages": [
+          "pages/huanggua/huanggua",
+          "pages/haidai/haidai",
+          "pages/machixian/machixian",
+          "pages/kugua/kugua",
+          "pages/helandou/helandou",
+          "pages/shala/shala",
+          "pages/limai/limai",
+          "pages/bingcai/bingcai",
+          "pages/qincai/qincai",
+          "pages/baoyu/baoyu"
+          
+        ]
       }
     ],
 
