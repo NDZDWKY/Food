@@ -1,0 +1,54 @@
+<!--packageB_C_B/pages/fanqie/fanqie.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/oJtDi3FZIEgUNrW.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:牛肉 400克|番茄 3个 
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:香菇 3个|鸡蛋 2个 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.牛肉先成条，再改刀切成丁。再将牛肉剁成肉泥。（如果有搅拌机可以使用搅拌机）</view>
+<view class="view_second">
+        2.香葱和香菇洗净，切成末，和姜末牛肉泥一起装入碗内。（需要选择一个深些的碗，方便搅拌。）加入鸡蛋。</view>
+ <view class="view_second">
+    3.再加入适量的淀粉（淀粉的量大约在100克左右，也就是和2个鸡蛋的体积差不多大）麻油，生抽，少量盐（有了生抽，盐也可以省略不放），胡椒粉（一点点，只是提个味道）。然后用筷子顺着一个方向使劲搅拌5分钟左右。</view>
+        <view class="view_second">
+            4.锅内烧开水。双手充分洗净，用左手抓一把肉糜，然后用手挤出一个圆圆的挤子，右手拿一把勺子接住，放入滚水中，一接触热水，一个丸子基本上就定型了。所有丸子都从水中浮起。即可关火。撇去浮沫，备用。</view>
+  
+        <view class="view_second">
+            5.锅内烧热水，将番茄放锅中，烫半分钟，捞出。剥掉番茄的外皮。将番茄切成小丁，放入碗内备用。炒锅加热倒少量食用油。倒番茄下锅翻炒片刻。加入番茄酱再翻炒片刻，并将番茄压成泥。</view>
+  
+        <view class="view_second">
+            6.将牛肉丸子以及做丸子的汤一起倒入番茄的锅中，烧滚后，撒上香菜即可关火装盘。
+</view>
+  
+  
+  
+   
+
+
+
+

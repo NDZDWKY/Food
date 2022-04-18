@@ -1,0 +1,40 @@
+<!--packageB_C_B/pages/songziyu/songziyu.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/BzTHA7faYlpLr4P.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:鲢鱼段 适量|松子 适量|冷冻玉米粒 适量 
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:青椒 红椒 适量|料酒 适量|水淀粉 适量 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.取鲢鱼腹部一段，洗净片去鱼刺，切成小丁。青椒红椒切小丁，冷冻玉米粒清洗冲净后沥干水份，小葱切段，鱼米中加入料酒，盐，胡椒粉腌制。</view>
+    <view class="view_second">
+        2.切好的青椒红椒用开水氽熟，过冷水。松子放入锅中不加油，用小火煸至表面发黄盛出放凉备用。锅中放油烧将鱼米放入滑散变色后捞出。锅中加少许油炒香葱段。将玉米加入翻炒。加入氽烫好的青红椒丁，加盐调味。再加入鱼米同炒。加少许水淀粉勾薄芡，待汤汁快要收干时，将松子加入。</view>
+  
+   
+
+
+

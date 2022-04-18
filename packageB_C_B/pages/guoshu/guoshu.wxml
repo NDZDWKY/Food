@@ -1,0 +1,36 @@
+<!--packageB_C_B/pages/guoshu/guoshu.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/KWPmbFYdcVTejsN.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:胡萝卜 1根|豌豆 80g|玉米 80g|提子 1串 
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:梨子 1个|香蕉 2根|苹果 2个|橙子 2个 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.豌豆 玉米洗净胡萝卜削皮切丁备用，利用这个时间烧水。待水开了倒入洗好的蔬菜，煮7分钟左右捞出晾凉。把所有的水果（除了香蕉）都洗净，橙子分4份切开在皮处切进不要切断，再把皮的两边切一下（不要切断哦）。苹果也削皮，分好切开小瓣在对切（小三角）。提子也对切哦。</view>
+    <view class="view_second">
+        2.梨子 香蕉 苹果 提子切好片段装碗备用。倒入晾好蔬菜丁拌匀。倒入2汤勺的沙拉搅拌均匀哦</view>
+  

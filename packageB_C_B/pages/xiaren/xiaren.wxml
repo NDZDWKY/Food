@@ -1,0 +1,39 @@
+<!--packageB_C_B/pages/xiaren/xiaren.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/4vhasOypjWYA6GV.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:虾仁 适量|西兰花 适量|面条 适量  
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:大蒜 适量|姜 适量|蚝油 适量|盐 适量 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.姜蒜切碎。放油、盐、加水煮一会儿，先把西兰花炒熟，盛起。在加油热至七八成热放入姜末爆出香味,倒入虾仁迅速翻炒。虾仁稍有变红即可倒入开水，加入盐，煮大约5-6分钟。再放入蒜末煮大约1分钟，放入小葱，加入耗油即可起锅。</view>
+    <view class="view_second">
+        2.烧水下面，面条煮好，盛起一碗后入一些炒熟的西兰花再浇上一些虾汤和虾仁即可。</view>
+  
+   
+
+
