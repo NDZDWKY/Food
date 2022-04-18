@@ -1,0 +1,44 @@
+<!--packageB_C_E/pages/nangua/nangua.wxml-->
+
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/p5Aysuxdk7ZIQgF.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:南瓜 350克|牛奶 150克|面粉 30克 
+
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:花生米30g|南瓜子适量|黄油25g|砂糖30g
+
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.南瓜切去外皮，切成小块。把切成小块的南瓜放入锅中，加入适量清水，煮熟。花生米放入微波炉中火加热4分钟左右，叮至花生香香脆脆的。取出花生，去掉红外衣。用食物料理机将花生磨成花生粉备用。
+
+
+
+</view>
+    <view class="view_second">
+        2.用食物料理机把煮熟的南瓜搅拌成泥状。倒入小锅中，加入牛奶和砂糖，搅拌均匀。加入面粉，用打蛋器不断地搅拌，搅至均匀，没有白色的小颗粒。搅拌至南瓜泥慢慢变成浓稠，加入黄油，搅拌至黄油溶化即可关火。洒入花生粉和南瓜籽。
+
+</view>

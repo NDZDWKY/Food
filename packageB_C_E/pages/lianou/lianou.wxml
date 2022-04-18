@@ -1,0 +1,45 @@
+<!--packageB_C_E/pages/lianou/lianou.wxml-->
+
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/wYMf4Wrn2ZId9JQ.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:排骨 1根 |莲藕 1节 
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:胡萝卜 半根 | 枸杞 少许 
+
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.主材料洗净，莲藕和胡萝卜切片大概是0.3m的厚度。电气锅内倒入温水，放入切好的排骨压6分钟。
+
+
+</view>
+    <view class="view_second">
+2.再倒入莲藕和胡萝卜压10分钟，临出锅时倒入少许的枸杞和适量的盐再盖上盖子焖2分钟可以上桌了。
+
+</view>
+
+
+
