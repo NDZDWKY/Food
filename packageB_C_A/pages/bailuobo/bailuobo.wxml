@@ -1,0 +1,35 @@
+<!--packageB_C_A/pages/bailuobo/bailuobo.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/mUuCgKdeRWolsaV.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:鸡蛋 2个 | 白萝卜 100g 
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:香葱 1颗 |枸杞 20粒 |盐 1-2g 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.锅中加适量的油。磕入鸡蛋煎一下。翻面，两面上色后关火。鸡蛋不用煎到蛋黄熟透，一会还要煮。</view>
+    <view class="view_second">
+        2.白萝卜切丝 。放入锅中，用煎鸡蛋剩下的油煸炒变软。放入煎蛋，倒100℃热开水。放入枸杞，中小火煮15分钟。最后放少许盐调味，撒香葱，关火。</view>
