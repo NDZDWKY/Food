@@ -1,0 +1,48 @@
+<!--packageB_C_D/pages/hupi/hupi.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/nzSick7aDvFdK1C.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:鹌鹑蛋 16个  | 干木耳 1小把
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:豆瓣酱 适量|盐 适量|酱油适量|白糖适量 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.鹌鹑蛋洗净，放进锅里，加冷水、适量盐，煮熟；
+
+</view>
+    <view class="view_second">
+       
+2.煮熟的鹌鹑蛋捞起，放在凉水里，静置片刻；煮熟的鹌鹑蛋捞起，放在凉水里，静置片刻；如果是有盖子的容器，就盖紧盖子，然后拿起容器用力摇晃几下，当然凉水就不用放得太多，不放也行。将冷却后的鹌鹑蛋剥去外壳，拭干水分；干木耳提前泡发好，去蒂，洗净，撕成小块，沥干水分备用；
+
+</view>
+<view class="view_second">
+       
+   
+       3.热锅里倒入植物油烧热，油量比平时炒菜稍多一点，将煮好的鹌鹑蛋放进锅里炸出虎皮后捞出；锅里留底油，爆香姜蒜末、豆瓣酱；将木耳放进锅里，翻炒均匀；放入炸好的鹌鹑蛋，翻炒。
+       
+       </view>
+
+

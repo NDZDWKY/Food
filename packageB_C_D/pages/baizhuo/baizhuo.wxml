@@ -1,0 +1,44 @@
+<!--packageB_C_D/pages/baizhuo/baizhuo.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/k7PyzHIhQUbKsBj.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:明虾 400g
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:葱 10|姜 3g|醋 20ml|蚝油 5ml 
+
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.明虾洗净，在碗中加入葱姜末，醋，美极鲜，芥末膏，香油，蚝油拌匀做成蘸汁。锅中加水，放入适量葱段和姜片煮开。
+
+
+</view>
+    <view class="view_second">
+       2.放入明虾。中火煮开，关火盛盘，蘸酱汁食用即可。
+
+</view>
+
+
+

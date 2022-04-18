@@ -1,0 +1,42 @@
+<!--packageB_C_D/pages/yaoguo/yaoguo.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/tDxKOmFNRzwSug6.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:大虾 适量|腰果 适量|西芹 适量|鸡蛋 1个 
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:生姜适量|淀粉 适量|精盐 适量|料酒适量 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.把大虾去头剥去外壳去除虾线，然后加入适量的料酒。加入适量的淀粉。加入少许的精盐。加入少许的蛋清。把所有的调料拌匀腌制一会儿。
+</view>
+    <view class="view_second">
+        2.冷锅加入适量的色拉油。把腰果倒入锅中，小火慢慢翻炒。直到腰果变成浅黄色时候盛出，加入少许的精盐。把西芹撕去表面的筋，切成小段备用。生姜切成大片备用。
+
+</view>
+<view class="view_second">
+    3.锅中加入适量的油烧热，放入生姜翻炒一会儿。放入腌制好的虾仁。把虾仁翻炒一会儿。把西芹段翻炒一会儿。直到西芹段断生时候加入适量的精盐翻炒均匀，最后倒入适量腰果翻炒均匀即可。
+
+</view>
