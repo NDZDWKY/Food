@@ -22,11 +22,7 @@ Page({
           url: '/packageB_C/pages/qingshaonian/qingshaonian',
         })
     },
-    gotoqingnian(){
-        wx.navigateTo({
-          url: '/packageB_C/pages/qingnian/qingnian',
-        })
-    },
+  
     gotozhongnian(){
         wx.navigateTo({
           url: '/packageB_C/pages/zhongnian/zhongnian',
