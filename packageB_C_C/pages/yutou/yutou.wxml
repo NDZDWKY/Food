@@ -1,0 +1,52 @@
+<!--packageB_C_C/pages/yutou/yutou.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/NDHpQd3JTRkr7lw.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:	鱼头，鱼尾，豆腐，玉子菇，胡椒
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:火麻油，葱，蒜，姜，盐，料酒，醋
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1、玉子菇和豆腐准备好，葱姜蒜切好备用，鱼头鱼尾准备好。
+。</view>
+    <view class="view_second">
+        2、锅里热火麻油，炒香葱姜蒜、放入鱼头鱼尾煎黄。
+
+</view>
+<view class="view_second">
+  3、锅里加开水，一次加够、水烧开以后放入豆腐、加一些料酒、盐。
+
+</view>
+<view class="view_second">
+
+4、然后放入玉子菇，大概炖20分钟左右、最后加一些胡椒粉、醋
+</view>
+   
+
+
+
+
+

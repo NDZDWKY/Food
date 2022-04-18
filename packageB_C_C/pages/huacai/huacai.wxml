@@ -1,0 +1,41 @@
+<!--packageB_C_C/pages/huacai/huacai.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/EawTo3D7nAPdgly.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:牛肉|花菜|山楂粉|八角|桂皮|干辣椒   
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:花椒|香叶|姜片|老抽|料酒|胡椒粉|油盐
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1. 将泡过水的牛肉切成大小合适的块，加入姜片和适量的山楂粉搅拌均匀；腌制牛肉的同时准备好八角、桂皮、花椒、干辣椒和香叶等大料；  烧热锅， 放入适量的油，下入牛肉翻炒； 将牛肉中的水分炒干， 再加入准备好的大料继续翻炒；</view>
+    <view class="view_second">
+        2.翻炒几下后， 加入酱油和生抽继续炒制； 再加入适量的开水， 大火烧开，撇去浮沫，转小火加盖炖煮四十分钟； 揭开盖，大火花菜大火煮上五分钟；花菜煮到八、九成熟时加入盐、胡椒粉等调味， 收汁即可。
+</view>
+  
+   
+
+
+

@@ -1,0 +1,45 @@
+<!--packageB_C_C/pages/xiaocanbao/xiaocanbao.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/KeW9kIm6wPgSERO.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:牛蹄筋 适量|八角 适量|草果 适量    
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:高粉250g|酵母5g|低粉50g|牛奶160g 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.高筋面粉250克、低粉50克、酵母5克、牛奶160、细砂糖、玉米油、盐、鸡蛋、把所有面包材料混合成团。用手揉至扩展阶段。盖保鲜膜放温暖处发酵。发酵至两倍大。</view>
+    <view class="view_second">
+        2.用手指粘干面粉戳一下，面团不回缩即可。将面团分为15份，放于烤盘上盖保鲜膜松弛15分钟，松弛好的面包胚均匀的刷上鸡蛋液，撒上白芝麻，置于烤箱中层，170度，中层15分钟左右，出炉。牛筋放高压锅，加八角、香叶、桂皮、葱、姜、花椒、料酒、压25分钟左右。
+</view>
+<view class="view_second">
+    3.小米辣切成圈待用。青小米辣也切成圈待用，葱、姜切成末。热油锅，倒入适量玉米油，放入花椒粒，姜丝、葱爆香。放牛筋翻炒炒，滴几滴生抽，放小米辣椒翻炒，加盐、五香粉、鸡粉调味，就可以起锅装盘了。
+</view>
+  
+   
+
+
+
+
