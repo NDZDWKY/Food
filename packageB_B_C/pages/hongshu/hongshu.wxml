@@ -1,0 +1,46 @@
+<!--packageB_B_C/pages/hongshu/hongshu.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/W8mZpryeLjTFYh5.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:香蕉 1根|红薯 200g |牛奶 50g 
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:燕麦 100g|鸡蛋 2个 |蓝莓 适量
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.先准备一个小碗泡燕麦，把100g的燕麦和50g的牛奶混匀，让燕麦充分吸收牛奶。把红薯洗净，去皮，然后切成块状，这样比较容易蒸熟。</view>
+   
+   
+<view class="view_second">
+    2.准备一锅清水，切好的红薯片都放入蒸锅里，大火煮沸，蒸个大概10~15分钟左右，还是老方法，用筷子戳一下，很容易被戳烂就是熟了的。蒸熟了的红薯，我把它倒进碗里趁热碾碎。用到一个6格的马芬的模具，没有的小伙伴也可以放进烤碗里，然后红薯碾成泥之后，就把它均匀的分在模具里。用小勺轻轻地给它稍微压平一点，这样的话就比较容易往上面放东西。
+</view>
+   
+<view class="view_second">
+    3.接着就把刚刚混合好的燕麦叠加放入。取一根香蕉，也把它切成小丁。依次放在燕麦上面，最后再放上一些蓝莓作为点缀，丰富它的口味。这里的水果你们都可以根据个人口味自行替换，比如草莓啦、蔓越莓啦都是可以滴~
+</view>
+   
+<view class="view_second">
+    4.然后再打两个鸡蛋，用小勺搅成蛋液。蛋液也均匀的淋在上面，要注意不要太满，烤的时候它是会有稍稍的膨胀的。装好模具就可以放进烤箱里烤了，烤箱事先预热，然后200度烤20分钟。
+</view>

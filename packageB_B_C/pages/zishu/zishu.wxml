@@ -1,0 +1,41 @@
+<!--packageB_B_C/pages/zishu/zishu.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/Ho7KgwxWJscr9kb.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食:紫薯 15g|糯米 15g|燕麦 5g 
+
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:红枣碎 少许|黑白芝麻 少许|纯净水 适量  
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.紫薯去皮切丁。把紫薯、燕麦片和糯米放入九阳ksolo豆浆机内。糯米淘洗净，用水浸泡10～15分钟。往水箱中加入适量的纯净水。</view>
+   
+   
+<view class="view_second">
+    2.13分钟后，米糊自动流入接浆杯中。放点红枣碎和黑白芝麻，温热后即可食用。
+</view>
+
+
+

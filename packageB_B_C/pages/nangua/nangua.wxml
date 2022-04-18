@@ -1,0 +1,37 @@
+<!--packageB_B_C/pages/nangua/nangua.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/SNPIqUoZW5jxka8.png"style="width: 100%;height: 100%;"></image>
+</view>
+
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食: 南瓜 适量 
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料: 酸奶 适量 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.南瓜适量，洗干净去皮，切小块。大火上锅蒸。</view>
+   
+   
+<view class="view_second">
+    2.凉透摆入容器中。淋适量酸奶，即可食用，酸酸甜甜的，味道清新。
+</view>
+

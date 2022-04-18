@@ -1,0 +1,44 @@
+<!--packageB_B_C/pages/qiaomaimian/qiaomaimian.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/Cilm62DhMbswdyY.png"style="width: 100%;height: 100%;"></image>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/GfhZDoc67ljNmWd.png" class="image_first"></image>
+    <text class="text_first">背景简介</text>
+</view>
+<view class="view_second">
+  
+    俗话说冬至饺子夏至面，在北方河南，民间有“吃过夏至面，一天短一线”的说法却盛传至今。夏至吃面，一般指的是面条，意用面(条)之长比喻夏至之长昼。区域不同，面条的做法多种多样，夏天天气炎热，过水凉拌捞面绝对是首选。 </view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食: 荞麦面 1把 
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:小米椒 1个 香葱 1颗 大蒜 3瓣 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.准备干荞麦面一把，大蒜，小米椒，小葱，轻盐昆布酱油。大蒜捣成泥。加入三勺轻盐昆布酱油。一勺米醋。两勺凉开水，少许香油混合均匀。</view>
+   
+   
+<view class="view_second">
+    2.锅中放适量清水，水开后放入荞麦面煮3-5分钟。小葱和小米椒切碎备用。煮好的荞麦面放入凉开水里过一下。根据口味放入小米椒和香葱，拌一下就可以了。
+</view>
+
+

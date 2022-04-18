@@ -1,0 +1,46 @@
+<!--packageB_B_C/pages/limai/limai.wxml-->
+<view style="width: 700rpx;height: 450rpx;margin:23rpx;">
+   <image src="https://s2.loli.net/2022/04/18/3hRmdDySPW86cbu.png"style="width: 100%;height: 100%;"></image>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/GfhZDoc67ljNmWd.png" class="image_first"></image>
+    <text class="text_first">背景简介</text>
+</view>
+<view class="view_second">
+  桂圆也叫龙眼，益智补脑 补气养血的作用。
+藜麦色泽光亮饱满、营养丰富可煮粥，口感香浓软糯，具有丰富的营养和膳食纤维，是优质的营养源，也是减肥人士喜欢的营养食物。
+ 藜麦属于易消化食品，口感独特，有淡淡的坚果清香或者人参香，胚乳占种子的68%， 且具有营养活性，蛋白质含量高达16%-22%（牛肉20%），品质与奶粉及肉类相当，富含多种氨基酸，其中有人体必需的全部9种必需氨基酸 </view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/jC7LnPOkTVJIycW.png" class="image_first"></image>
+    <text class="text_first">食材明细</text>
+</view>
+<view class="view_second">
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/JmfEg2Oclx4B8I9.png" class="image_first"></image>
+    <text class="text_second">主食: 大米 适量 | 藜麦 适量 
+    </text>
+</view>
+</view>
+<view class="view_second" >
+<view class="view_forth">
+    <image src="https://s2.loli.net/2022/04/12/2bZwyRTvAhSL9z1.png" class="image_first"></image>
+    <text class="text_second">辅料:桂圆 适量 | 红枣 适量 
+ </text>
+   
+
+</view>
+</view>
+<view class="view_first">
+    <image src="https://s2.loli.net/2022/04/12/im3t4v6aMCnPDRc.png" class="image_first"></image>
+    <text class="text_first">做法步骤</text>
+</view>
+<view class="view_second">
+    1.桂圆去皮去核。藜麦淘洗浸泡约一两个小时。</view>
+   
+   
+<view class="view_second">
+    2.清水煮开大米。放入藜麦开中小火煮约15---20分钟，起锅前十分钟左右放入桂圆。最后放入红枣煮一两分钟。
+</view>
+
+
+
