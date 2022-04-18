@@ -8,9 +8,7 @@
 <button bindtap="gotoqingshaonian" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
    <image src="https://s2.loli.net/2022/04/11/JiXbkO7QSrxdytZ.png" style="width: 100%;height: 100%;"></image>
 </button>
-<button bindtap="gotoqingnian" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
-   <image src="https://s2.loli.net/2022/04/11/n5buGUrQde3q1Sk.png" style="width: 100%;height: 100%;"></image>
-</button>
+
 <button bindtap="gotozhongnian" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
    <image src="https://s2.loli.net/2022/04/11/gRv1ozeYEfxp4SM.png" style="width: 100%;height: 100%;"></image>
 </button>
