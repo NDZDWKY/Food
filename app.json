@@ -464,7 +464,198 @@
                 "pages/xihulu/xihulu",
                 "pages/xiaren/xiaren"
             ]
-        }
+        },
+           
+            {
+              "root": "packageB_A_F",
+              "name": "pack2_1_6",
+              "pages": [
+                "pages/suanxiang/suanxiang",
+                "pages/bandoufu/bandoufu",
+                "pages/caoyu/caoyu",
+                "pages/qingjiao/qingjiao"
+              ]
+            },
+            {
+              "root": "packageB_A_G",
+              "name": "pack2_1_7",
+              "pages": [
+                "pages/danggui/danggui",
+                "pages/guzhen/guzhen",
+                "pages/koumuo/koumuo",
+                "pages/huangyu/huangyu"
+              ]
+            },
+            {
+              "root": "packageB_A_H",
+              "name": "pack2_1_8",
+              "pages": [
+                "pages/chunsheng/chunsheng",
+                "pages/chunyi/chunyi",
+                "pages/jiucai/jiucai",
+                "pages/douxiang/douxiang"
+              ]
+            },
+            {
+              "root": "packageB_A_I",
+              "name": "pack2_1_9",
+              "pages": [
+                "pages/zaoni/zaoni",
+                "pages/niushe/niushe",
+                "pages/ruyi/ruyi",
+                "pages/lianzitang/lianzitang"
+              ]
+            },
+            {
+              "root": "packageB_A_J",
+              "name": "pack2_1_10",
+              "pages": [
+                "pages/xiaren/xiaren",
+                "pages/rouxian/rouxian",
+                "pages/ouding/ouding",
+                "pages/sangshen/sangshen"
+              ]
+            },
+            {
+              "root": "packageB_A_K",
+              "name": "pack2_1_11",
+              "pages": [
+                "pages/lusun/lusun",
+                "pages/roupian/roupian",
+                "pages/suanla/suanla",
+                "pages/jiyi/jiyi"
+              ]
+            },
+            {
+              "root": "packageB_A_L",
+              "name": "pack2_1_12",
+              "pages": [
+                "pages/zishu/zishu",
+                "pages/naiyou/naiyou",
+                "pages/heye/heye",
+                "pages/wosun/wosun"
+              ]
+            },
+            {
+              "root": "packageB_A_M",
+              "name": "pack2_1_13",
+              "pages": [
+                "pages/xueyu/xueyu",
+                "pages/qianshi/qianshi",
+                "pages/sanxian/sanxian",
+                "pages/fuyi/fuyi"
+              ]
+            },
+            {
+              "root": "packageB_A_N",
+              "name": "pack2_1_14",
+              "pages": [
+                "pages/cong/cong",
+                "pages/yutou/yutou",
+                "pages/yaoguo/yaoguo",
+                "pages/guiyuan/guiyuan"
+              ]
+            },
+            {
+              "root": "packageB_A_O",
+              "name": "pack2_1_15",
+              "pages": [
+                "pages/yang/yang",
+                "pages/luobo/luobo",
+                "pages/pijiu/pijiu",
+                "pages/bocai/bocai"
+              ]
+            },
+            {
+              "root": "packageB_A_P",
+              "name": "pack2_1_16",
+              "pages": [
+                "pages/yurou/yurou",
+                "pages/zhenji/zhenji",
+                "pages/zhou/zhou",
+                "pages/bing/bing"
+              ]
+            },
+            {
+              "root": "packageB_A_Q",
+              "name": "pack2_1_17",
+              "pages": [
+                "pages/youji/youji",
+                "pages/yuan/yuan",
+                "pages/ganshao/ganshao",
+                "pages/banli/banli"
+              ]
+            },
+            {
+              "root": "packageB_A_R",
+              "name": "pack2_1_18",
+              "pages": [
+                "pages/baiguo/baiguo",
+                "pages/heidou/heidou",
+                "pages/ganlan/ganlan",
+                "pages/zhuyao/zhuyao"
+              ]
+            },
+            {
+              "root": "packageB_A_S",
+              "name": "pack2_1_19",
+              "pages": [
+                "pages/basi/basi",
+                "pages/shiliu/shiliu",
+                "pages/baihe/baihe",
+                "pages/paigu/paigu"
+              ]
+            },
+            {
+              "root": "packageB_A_T",
+              "name": "pack2_1_20",
+              "pages": [
+                "pages/maoxie/maoxie",
+                "pages/niqiu/niqiu",
+                "pages/niufei/niufei",
+                "pages/tian/tian"
+              ]
+            },
+            {
+              "root": "packageB_A_U",
+              "name": "pack2_1_21",
+              "pages": [
+                "pages/candou/candou",
+                "pages/xihong/xihong",
+                "pages/doupi/doupi",
+                "pages/shourou/shourou"
+              ]
+            },
+            {
+              "root": "packageB_A_V",
+              "name": "pack2_1_22",
+              "pages": [
+                "pages/doukou/doukou",
+                "pages/dan/dan",
+                "pages/laoya/laoya",
+                "pages/qiezi/qiezi"
+              ]
+            },
+            {
+              "root": "packageB_A_W",
+              "name": "pack2_1_23",
+              "pages": [
+                "pages/xiaopai/xiaopai",
+                "pages/hua/hua",
+                "pages/muer/muer",
+                "pages/nangua/nangua"
+              ]
+            },
+            {
+              "root": "packageB_A_X",
+              "name": "pack2_1_24",
+              "pages": [
+                "pages/yu/yu",
+                "pages/zhu/zhu",
+                "pages/ou/ou",
+                "pages/shan/shan"
+              ]
+            }
     ],
     "window": {
         "backgroundTextStyle": "light",
