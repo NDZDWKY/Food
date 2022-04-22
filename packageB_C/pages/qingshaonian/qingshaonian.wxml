@@ -1,0 +1,14 @@
+
+<button bindtap="gotohuacai" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/buMSCBNDYdJIUzh.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoxiaocanbao" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/pATzfWve1iUnuHJ.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoyutou" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/CIwnrfUhVRzFNT5.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gototianqi" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/qMuVfZ53UQJBhja.png" style="width: 100%;height: 100%;"></image>
+</button>
+

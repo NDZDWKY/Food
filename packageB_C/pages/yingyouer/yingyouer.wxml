@@ -1,0 +1,13 @@
+
+<button bindtap="gotomihu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/gtcFZpGvuN4CP2d.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotorongdou" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/1K82oedO6zYTlgE.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotozhugu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/1j3dCfbpYKIThF7.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotobailuobo" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/Agb7c29LPs6HWGo.png" style="width: 100%;height: 100%;"></image>
+</button>

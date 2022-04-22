@@ -1,0 +1,15 @@
+
+<button bindtap="gotoxiaren" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/efVlbctans9XEhS.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotoxihulu" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/1BvVKfRFnl96csh.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotonangua" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/vOMl2HbEZK4B1gq.png" style="width: 100%;height: 100%;"></image>
+</button>
+<button bindtap="gotolianou" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
+   <image src="https://s2.loli.net/2022/04/18/EGdFo4NDSse81tj.png" style="width: 100%;height: 100%;"></image>
+</button>
+
+
