@@ -1,4 +1,4 @@
-<!--packageB_B_A/pages/jipai/jipai.wxml-->
+
 <view style="width: 700rpx;height: 450rpx;margin:23rpx;">
    <image src="https://s2.loli.net/2022/04/13/r6w2UKQNcRb1PL4.png"style="width: 100%;height: 100%;"></image>
 </view>

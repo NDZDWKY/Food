@@ -1,4 +1,4 @@
-// packageB_B_A/pages/yanshuiya/yanshuiya.js
+// packageB_B_A/pages/sanwenyu/sanwenyu.js
 Page({
 
     /**
