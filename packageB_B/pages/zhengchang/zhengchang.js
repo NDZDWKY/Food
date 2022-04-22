@@ -5,9 +5,48 @@ Page({
      * 页面的初始数据
      */
     data: {
-
+      name:'0'
     },
-
+    gotoqiaomaimian(){
+        wx.navigateTo({
+          url: '/packageB_B_C/pages/qiaomaimian/qiaomaimian',
+        })
+    },
+    gotohongshu(){
+        wx.navigateTo({
+          url: '/packageB_B_C/pages/hongshu/hongshu',
+        })
+    },
+    gotolimai(){
+        wx.navigateTo({
+          url: '/packageB_B_C/pages/limai/limai',
+        })
+    },
+    gotolanmei(){
+        wx.navigateTo({
+          url: '/packageB_B_C/pages/lanmei/lanmei',
+        })
+    },
+    gotoxiduoshi(){
+        wx.navigateTo({
+          url: '/packageB_B_C/pages/xiduoshi/xiduoshi',
+        })
+    },
+    gotolianzi(){
+        wx.navigateTo({
+          url: '/packageB_B_C/pages/lianzil/lianzil',
+        })
+    },
+    gotonangua(){
+        wx.navigateTo({
+          url: '/packageB_B_C/pages/nangua/nangua',
+        })
+    },
+    gotozishu(){
+        wx.navigateTo({
+          url: '/packageB_B_C/pages/zishu/zishu',
+        })
+    },
     /**
      * 生命周期函数--监听页面加载
      */

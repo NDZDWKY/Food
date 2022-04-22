@@ -1,4 +1,4 @@
-<!--packageB_B/pages/feipang/feipang.wxml-->
+
 <button bindtap="gotohuanggua" style="width: 700rpx;height: 300rpx;margin-bottom: 40rpx;margin-top: 20rpx;">
    <image src="https://s2.loli.net/2022/04/16/jgxwUanuGs4WZPF.png" style="width: 100%;height: 100%;"></image>
 </button>
